@@ -1,0 +1,745 @@
+id,street_number,route,city,state,zip_code,site_address,latitude,longitude,county,utility_name,reroof_permit_issue_date,reroof_permit_expiration_date,reroof_type
+33136,19780,Pacific Gateway Dr,Torrance,CA,90502,"19780 Pacific Gateway Dr, Torrance, CA 90502, USA",33.851577,-118.294618,Los Angeles County,Los Angeles Dept of Water & Power,06/26/2018,03/31/2018,Built Up
+37420,9301,Mason Ave,Los Angeles,CA,91311,"9301 Mason Ave, Chatsworth, CA 91311, USA",34.2403109,-118.58071,Los Angeles County,Los Angeles Dept of Water & Power,08/21/2018,05/31/2019,Class A or B
+36810,550,S Mission Rd,Los Angeles,CA,90033,"550 S Mission Rd, Los Angeles, CA 90033, USA",34.0393198,-118.2261574,Los Angeles County,Los Angeles Dept of Water & Power,02/27/2017,04/30/2017,Built Up
+36162,21001,Nordhoff St,Los Angeles,CA,91311,"21001 Nordhoff St, Chatsworth, CA 91311, USA",34.2358021,-118.5912601,Los Angeles County,Los Angeles Dept of Water & Power,10/07/2015,05/31/2017,Built Up
+30811,13000,Pierce St,Los Angeles,CA,91331,"13000 Pierce St, Pacoima, CA 91331, USA",34.2646882,-118.4156713,Los Angeles County,Los Angeles Dept of Water & Power,12/25/2014,04/30/2015,Built Up
+2875,9330,De Soto Ave,Los Angeles,CA,91311,"9330 De Soto Ave, Chatsworth, CA 91311, USA",34.2397103,-118.5876089,Los Angeles County,Los Angeles Dept of Water & Power,12/26/2017,07/31/2018,Built Up
+42043,12501,Gladstone Ave,Los Angeles,CA,91342,"12501 Gladstone Ave, Sylmar, CA 91342, USA",34.2966474,-118.4142109,Los Angeles County,Los Angeles Dept of Water & Power,10/08/2014,06/30/2015,Comp Shingle
+19527,6809,Stanford Ave,Los Angeles,CA,90001,"6809 Stanford Ave, Los Angeles, CA 90001, USA",33.9778329,-118.263441,Los Angeles County,Los Angeles Dept of Water & Power,07/17/2017,07/31/2017,Built Up
+44115,4565,Electronics Pl,Los Angeles,CA,90039,"4565 Electronics Pl, Los Angeles, CA 90039, USA",34.1455792,-118.2742118,Los Angeles County,Los Angeles Dept of Water & Power,10/02/2015,10/31/2015,Built Up
+29142,7333,Radford Ave,Los Angeles,CA,91605,"7333 Radford Ave, North Hollywood, CA 91605, USA",34.2038574,-118.3928504,Los Angeles County,Los Angeles Dept of Water & Power,04/10/2019,02/28/2020,Class A or B
+16971,19515,S Vermont Ave,Torrance,CA,90502,"19515 S Vermont Ave, Torrance, CA 90502, USA",33.853884,-118.2910046,Los Angeles County,Los Angeles Dept of Water & Power,01/08/2013,03/31/2014,Class A or B
+43535,13315,S Figueroa St,Los Angeles,CA,90061,"13315 S Figueroa St, Los Angeles, CA 90061, USA",33.9105689,-118.2831756,Los Angeles County,Los Angeles Dept of Water & Power,05/22/2014,06/30/2015,Built Up
+2849,20730,Dearborn St,Los Angeles,CA,91311,"20730 Dearborn St, Chatsworth, CA 91311, USA",34.2366504,-118.5850869,Los Angeles County,Los Angeles Dept of Water & Power,05/22/2013,11/30/2014,Built Up
+14602,5431,W 104th St,Los Angeles,CA,90045,"5431 W 104th St, Los Angeles, CA 90045, USA",33.9424887,-118.3751393,Los Angeles County,Los Angeles Dept of Water & Power,04/15/2019,08/31/2020,Built Up
+21249,11846,Sherman Way,Los Angeles,CA,91605,"11846 Sherman Way, North Hollywood, CA 91605, USA",34.2008927,-118.3919375,Los Angeles County,Los Angeles Dept of Water & Power,05/19/2015,02/29/2016,Built Up
+41054,900,N Highland Ave,Los Angeles,CA,90038,"900 N Highland Ave, Los Angeles, CA 90038, USA",34.0876101,-118.3382502,Los Angeles County,Los Angeles Dept of Water & Power,06/19/2015,09/30/2016,Class A or B
+42047,12458,Gladstone Ave,Los Angeles,CA,91342,"12458 Gladstone Ave, Sylmar, CA 91342, USA",34.2970179,-118.4114725,Los Angeles County,Los Angeles Dept of Water & Power,08/13/2014,10/31/2015,Built Up
+51377,3515,Wilshire Blvd,Los Angeles,CA,90010,"3515 Wilshire Blvd, Los Angeles, CA 90010, USA",34.0620397,-118.300909,Los Angeles County,Los Angeles Dept of Water & Power,02/01/2013,06/30/2013,Class A or B
+11472,900,E 62nd St,Los Angeles,CA,90001,"900 E 62nd St, Los Angeles, CA 90001, USA",33.9827851,-118.2583269,Los Angeles County,Los Angeles Dept of Water & Power,05/16/2016,07/31/2017,Built Up
+17220,13690,Vaughn St,San Fernando,CA,91340,"13690 Vaughn St, San Fernando, CA 91340, USA",34.2753249,-118.4304576,Los Angeles County,Los Angeles Dept of Water & Power,01/25/2017,03/31/2018,Built Up
+8703,6800,S Avalon Blvd,Los Angeles,CA,90003,"6800 S Avalon Blvd, Los Angeles, CA 90003, USA",33.9775861,-118.2640826,Los Angeles County,Los Angeles Dept of Water & Power,10/23/2017,01/31/2019,Built Up
+15965,3185,E Washington Blvd,Los Angeles,CA,90023,"3185 E Washington Blvd, Los Angeles, CA 90023, USA",34.0156284,-118.2106672,Los Angeles County,Los Angeles Dept of Water & Power,02/13/2017,06/30/2018,Built Up
+30417,21111,Plummer St,Los Angeles,CA,91311,"21111 Plummer St, Chatsworth, CA 91311, USA",34.2434842,-118.5942962,Los Angeles County,Los Angeles Dept of Water & Power,06/19/2019,06/30/2021,Built Up
+22338,13620,Saticoy St,Los Angeles,CA,91402,"13620 Saticoy St, Panorama City, CA 91402, USA",34.209317,-118.4294231,Los Angeles County,Los Angeles Dept of Water & Power,03/01/2016,04/30/2016,Built Up
+37426,8938,Mason Ave,Los Angeles,CA,91311,"8938 Mason Ave, Chatsworth, CA 91311, USA",34.2331753,-118.5789774,Los Angeles County,Los Angeles Dept of Water & Power,04/26/2018,03/31/2018,Built Up
+22079,16760,Schoenborn St,Los Angeles,CA,91343,"16760 Schoenborn St, North Hills, CA 91343, USA",34.2230844,-118.4986252,Los Angeles County,Los Angeles Dept of Water & Power,03/15/2017,12/31/2018,Built Up
+12813,1420,240th St,Los Angeles,CA,90710,"1420 240th St, Harbor City, CA 90710, USA",33.8068247,-118.3020838,Los Angeles County,Los Angeles Dept of Water & Power,04/24/2019,02/28/2021,Built Up
+36176,20447,Nordhoff St,Los Angeles,CA,91311,"20447 Nordhoff St, Chatsworth, CA 91311, USA",34.2322723,-118.5792364,Los Angeles County,Los Angeles Dept of Water & Power,04/26/2018,03/31/2018,Built Up
+40943,11200,Hindry Ave,Los Angeles,CA,90045,"11200 Hindry Ave, Los Angeles, CA 90045, USA",33.9330143,-118.372035,Los Angeles County,Los Angeles Dept of Water & Power,12/19/2013,09/30/2014,Class A or B
+27374,15800,Roscoe Blvd,Los Angeles,CA,91406,"15800 Roscoe Blvd, Van Nuys, CA 91406, USA",34.2209592,-118.4767816,Los Angeles County,Los Angeles Dept of Water & Power,11/05/2013,08/31/2015,Built Up
+52891,2275,W 25th St,Los Angeles,CA,90732,"2275 W 25th St, San Pedro, CA 90732, USA",33.7232416,-118.3297078,Los Angeles County,Los Angeles Dept of Water & Power,06/10/2015,02/28/2017,Class A or B
+11474,826,E 62nd St,Los Angeles,CA,90001,"826 E 62nd St, Los Angeles, CA 90001, USA",33.9828223,-118.2604282,Los Angeles County,Los Angeles Dept of Water & Power,10/17/2017,07/31/2017,Built Up
+27595,2016,Riverside Dr,Los Angeles,CA,90039,"2016 Riverside Dr, Los Angeles, CA 90039, USA",34.099037,-118.2497843,Los Angeles County,Los Angeles Dept of Water & Power,12/27/2018,02/28/2018,Built Up
+36182,20315,Nordhoff St,Los Angeles,CA,91311,"20315 Nordhoff St, Chatsworth, CA 91311, USA",34.2325926,-118.5762418,Los Angeles County,Los Angeles Dept of Water & Power,08/08/2014,01/01/2015,TI & REROOF (OVERALL DIMENSION  130' X 190') OF AN INDUSTRIAL BUILDING
+39785,10556,Keswick St,Los Angeles,CA,91352,"10556 Keswick St, Sun Valley, CA 91352, USA",34.2099369,-118.3614894,Los Angeles County,Los Angeles Dept of Water & Power,08/29/2018,03/31/2019,Class A or B
+7759,2055,S Barrington Ave,Los Angeles,CA,90025,"2055 S Barrington Ave, Los Angeles, CA 90025, USA",34.0355969,-118.4493102,Los Angeles County,Los Angeles Dept of Water & Power,03/24/2014,03/31/2014,Built Up
+10498,738,S Alameda St,Los Angeles,CA,90021,"738 S Alameda St, Los Angeles, CA 90021, USA",34.0325322,-118.2387497,Los Angeles County,Los Angeles Dept of Water & Power,07/18/2016,09/30/2017,Built Up
+7228,15140,Bledsoe St,Los Angeles,CA,91342,"15140 Bledsoe St, Sylmar, CA 91342, USA",34.3072138,-118.4627638,Los Angeles County,Los Angeles Dept of Water & Power,05/28/2015,02/29/2016,Built Up
+16610,5260,Vineland Ave,Los Angeles,CA,91601,"5260 Vineland Ave, North Hollywood, CA 91601, USA",34.1666626,-118.3698438,Los Angeles County,Los Angeles Dept of Water & Power,02/19/2016,02/29/2016,Built Up
+5283,2901,S Central Ave,Los Angeles,CA,90011,"2901 S Central Ave, Los Angeles, CA 90011, USA",34.015635,-118.256588,Los Angeles County,Los Angeles Dept of Water & Power,10/29/2015,01/31/2017,Built Up
+11285,1900,E 7th Pl,Los Angeles,CA,90021,"1900 E 7th Pl, Los Angeles, CA 90021, USA",34.0333052,-118.2337943,Los Angeles County,Los Angeles Dept of Water & Power,01/04/2019,12/31/2017,Built Up
+6572,4001,S Broadway,Los Angeles,CA,90037,"4001 S Broadway, Los Angeles, CA 90037, USA",34.0108115,-118.2787451,Los Angeles County,Los Angeles Dept of Water & Power,04/06/2016,02/28/2018,Built Up
+10622,7631,Alabama Ave,Los Angeles,CA,91304,"7631 Alabama Ave, Canoga Park, CA 91304, USA",34.2093963,-118.6000235,Los Angeles County,Los Angeles Dept of Water & Power,07/28/2019,04/30/2020,Built Up
+40758,2416,Hunter St,Los Angeles,CA,90021,"2416 Hunter St, Los Angeles, CA 90021, USA",34.0273393,-118.2291745,Los Angeles County,Los Angeles Dept of Water & Power,05/24/2018,02/28/2019,Class A or B
+38363,13253,Louvre St,Los Angeles,CA,91331,"13253 Louvre St, Pacoima, CA 91331, USA",34.2732863,-118.4219237,Los Angeles County,Los Angeles Dept of Water & Power,10/25/2018,02/28/2020,Class A or B
+24331,2409,N San Fernando Rd,Los Angeles,CA,90065,"2409 N San Fernando Rd, Los Angeles, CA 90065, USA",34.106321,-118.2391855,Los Angeles County,Los Angeles Dept of Water & Power,05/11/2014,03/31/2016,Built Up
+11645,314,W 58th St,Los Angeles,CA,90037,"314 W 58th St, Los Angeles, CA 90037, USA",33.9894628,-118.2791095,Los Angeles County,Los Angeles Dept of Water & Power,11/02/2017,02/28/2018,Built Up
+21159,8733,Shirley Ave,Los Angeles,CA,91324,"8733 Shirley Ave, Northridge, CA 91324, USA",34.2295226,-118.5581952,Los Angeles County,Los Angeles Dept of Water & Power,01/31/2019,02/28/2019,Class A or B
+17318,9604,Variel Ave,Los Angeles,CA,91311,"9604 Variel Ave, Chatsworth, CA 91311, USA",34.2452311,-118.5923491,Los Angeles County,Los Angeles Dept of Water & Power,06/05/2017,05/31/2017,Built Up
+24792,8446,San Fernando Rd,Los Angeles,CA,91352,"8446 San Fernando Rd, Sun Valley, CA 91352, USA",34.2235995,-118.3741806,Los Angeles County,Los Angeles Dept of Water & Power,04/15/2019,05/31/2020,Built Up
+38765,22817,Lockness Ave,Torrance,CA,90501,"22817 Lockness Ave, Torrance, CA 90501, USA",33.8184502,-118.3074271,Los Angeles County,Los Angeles Dept of Water & Power,10/02/2015,07/31/2017,Built Up
+40015,5132,W Jefferson Blvd,Los Angeles,CA,90016,"5132 W Jefferson Blvd, Los Angeles, CA 90016, USA",34.0252817,-118.3565111,Los Angeles County,Los Angeles Dept of Water & Power,02/28/2013,07/31/2013,"T/O ROOFING, RESHEATH, AND REROOF. REMOVE AND REPLACE ONE DAMAGED ROOF"
+37296,1117,N McCadden Pl,Los Angeles,CA,90038,"1117 N McCadden Pl, Los Angeles, CA 90038, USA",34.0912148,-118.337748,Los Angeles County,Los Angeles Dept of Water & Power,03/22/2017,02/28/2018,Built Up
+42136,7122,Gerald Ave,Los Angeles,CA,91406,"7122 Gerald Ave, Van Nuys, CA 91406, USA",34.2002412,-118.4933252,Los Angeles County,Los Angeles Dept of Water & Power,01/25/2017,07/31/2017,Built Up
+39499,3341,La Cienega Pl,Los Angeles,CA,90016,"3341 La Cienega Pl, Los Angeles, CA 90016, USA",34.0276937,-118.3757099,Los Angeles County,Los Angeles Dept of Water & Power,08/04/2016,03/31/2018,Built Up
+16675,939,N Vignes St,Los Angeles,CA,90012,"939 N Vignes St, Los Angeles, CA 90012, USA",34.057784,-118.232196,Los Angeles County,Los Angeles Dept of Water & Power,11/16/2015,10/31/2015,Built Up
+22368,13257,Saticoy St,Los Angeles,CA,91605,"13257 Saticoy St, North Hollywood, CA 91605, USA",34.2083437,-118.421764,Los Angeles County,Los Angeles Dept of Water & Power,02/15/2016,07/31/2016,Built Up
+44818,13748,Desmond St,Los Angeles,CA,91331,"13748 Desmond St, Pacoima, CA 91331, USA",34.273302,-118.432087,Los Angeles County,Los Angeles Dept of Water & Power,04/16/2019,09/30/2020,Built Up
+17793,6859,Valjean Ave,Los Angeles,CA,91406,"6859 Valjean Ave, Van Nuys, CA 91406, USA",34.1956974,-118.4866928,Los Angeles County,Los Angeles Dept of Water & Power,04/22/2013,12/31/2013,Built Up
+42585,7359,Fulton Ave,Los Angeles,CA,91605,"7359 Fulton Ave, North Hollywood, CA 91605, USA",34.2047489,-118.4230418,Los Angeles County,Los Angeles Dept of Water & Power,01/17/2019,05/31/2017,Built Up
+25785,2030,Sacramento St,Los Angeles,CA,90021,"2030 Sacramento St, Los Angeles, CA 90021, USA",34.0303474,-118.2311215,Los Angeles County,Los Angeles Dept of Water & Power,06/01/2018,11/30/2017,Built Up
+7472,7425,Bellaire Ave,Los Angeles,CA,91605,"7425 Bellaire Ave, North Hollywood, CA 91605, USA",34.2064613,-118.4099664,Los Angeles County,Los Angeles Dept of Water & Power,04/02/2014,05/31/2015,Built Up
+16577,1915,Violet St,Los Angeles,CA,90021,"1915 Violet St, Los Angeles, CA 90021, USA",34.0329495,-118.2329719,Los Angeles County,Los Angeles Dept of Water & Power,05/02/2019,02/29/2020,Class A or B
+22354,13346,Saticoy St,Los Angeles,CA,91605,"13346 Saticoy St, North Hollywood, CA 91605, USA",34.2079349,-118.4240347,Los Angeles County,Los Angeles Dept of Water & Power,09/25/2015,07/31/2016,Built Up
+4475,5547,Cleon Ave,Los Angeles,CA,91601,"5547 Cleon Ave, North Hollywood, CA 91601, USA",34.1714512,-118.3690677,Los Angeles County,Los Angeles Dept of Water & Power,08/09/2018,09/30/2018,Built Up
+16587,7121,Vineland Ave,Los Angeles,CA,91605,"7121 Vineland Ave, North Hollywood, CA 91605, USA",34.2001005,-118.3706883,Los Angeles County,Los Angeles Dept of Water & Power,08/25/2015,07/31/2017,Built Up
+42137,7119,Gerald Ave,Los Angeles,CA,91406,"7119 Gerald Ave, Van Nuys, CA 91406, USA",34.1999417,-118.4938321,Los Angeles County,Los Angeles Dept of Water & Power,02/03/2015,05/31/2015,Built Up
+18564,9722,Topanga Canyon Blvd,Los Angeles,CA,91311,"9722 Topanga Canyon Blvd, Chatsworth, CA 91311, USA",34.246849,-118.606398,Los Angeles County,Los Angeles Dept of Water & Power,07/22/2019,10/31/2020,Built Up
+20142,7100,Sophia Ave,Los Angeles,CA,91406,"7100 Sophia Ave, Van Nuys, CA 91406, USA",34.1993207,-118.4865725,Los Angeles County,Los Angeles Dept of Water & Power,10/22/2013,12/31/2013,Built Up
+34705,1600,E Olympic Blvd,Los Angeles,CA,90021,"1600 E Olympic Blvd, Los Angeles, CA 90021, USA",34.0297583,-118.2419265,Los Angeles County,Los Angeles Dept of Water & Power,03/25/2018,08/31/2018,Built Up
+26430,15648,Roxford St,Los Angeles,CA,91342,"15648 Roxford St, Sylmar, CA 91342, USA",34.3101431,-118.4721075,Los Angeles County,Los Angeles Dept of Water & Power,08/27/2018,03/31/2019,"VOLUNTARY SEISMIC RETROFIT AND REROOF. UPGRADE PATH OF TRAVEL, RAMPS,"
+12771,1071,251st St,Los Angeles,CA,90710,"1071 251st St, Harbor City, CA 90710, USA",33.7970306,-118.2952561,Los Angeles County,Los Angeles Dept of Water & Power,03/27/2019,07/31/2020,Built Up
+14276,1522,W 12th St,Los Angeles,CA,90015,"1522 W 12th St, Los Angeles, CA 90015, USA",34.0455169,-118.27513,Los Angeles County,Los Angeles Dept of Water & Power,11/14/2017,10/31/2017,Built Up
+13822,1005,E 14th St,Los Angeles,CA,90021,"1005 E 14th St, Los Angeles, CA 90021, USA",34.030139,-118.249646,Los Angeles County,Los Angeles Dept of Water & Power,02/03/2016,02/29/2016,Built Up
+11508,738,E 61st St,Los Angeles,CA,90001,"738 E 61st St, Los Angeles, CA 90001, USA",33.984121,-118.261878,Los Angeles County,Los Angeles Dept of Water & Power,04/04/2016,02/28/2018,Built Up
+44905,14531,Delano St,Los Angeles,CA,91411,"14531 Delano St, Van Nuys, CA 91411, USA",34.1829306,-118.4498512,Los Angeles County,Los Angeles Dept of Water & Power,08/07/2013,01/31/2014,Built Up
+22224,5426,Satsuma Ave,Los Angeles,CA,91601,"5426 Satsuma Ave, North Hollywood, CA 91601, USA",34.1693987,-118.3670591,Los Angeles County,Los Angeles Dept of Water & Power,11/01/2018,09/30/2019,Built Up
+17203,749,Venice Blvd,Los Angeles,CA,90015,"749 Venice Blvd, Los Angeles, CA 90015, USA",34.0392375,-118.27325,Los Angeles County,Los Angeles Dept of Water & Power,11/20/2013,01/31/2014,Built Up
+40702,3008,Hyde Park Blvd,Los Angeles,CA,90043,"3008 Hyde Park Blvd, Los Angeles, CA 90043, USA",33.9804298,-118.326055,Los Angeles County,Los Angeles Dept of Water & Power,05/28/2015,06/30/2015,Built Up
+17140,8551,Venice Blvd,Los Angeles,CA,90034,"8551 Venice Blvd, Los Angeles, CA 90034, USA",34.0350982,-118.3789082,Los Angeles County,Los Angeles Dept of Water & Power,07/24/2018,05/31/2017,Built Up
+37990,4161,S Main St,Los Angeles,CA,90037,"4161 S Main St, Los Angeles, CA 90037, USA",34.0078184,-118.2742917,Los Angeles County,Los Angeles Dept of Water & Power,09/21/2018,07/31/2017,Built Up
+7238,1965,Blake Ave,Los Angeles,CA,90039,"1965 Blake Ave, Los Angeles, CA 90039, USA",34.1001553,-118.2437768,Los Angeles County,Los Angeles Dept of Water & Power,07/12/2015,10/31/2015,Built Up
+17779,7019,Valjean Ave,Los Angeles,CA,91406,"7019 Valjean Ave, Van Nuys, CA 91406, USA",34.1981623,-118.4863711,Los Angeles County,Los Angeles Dept of Water & Power,11/26/2018,10/31/2019,Built Up
+17777,7022,Valjean Ave,Los Angeles,CA,91406,"7022 Valjean Ave, Van Nuys, CA 91406, USA",34.1982447,-118.4853839,Los Angeles County,Los Angeles Dept of Water & Power,09/27/2016,01/31/2017,Built Up
+3485,16117,Covello St,Los Angeles,CA,91406,"16117 Covello St, Van Nuys, CA 91406, USA",34.2078488,-118.4843591,Los Angeles County,Los Angeles Dept of Water & Power,12/15/2017,06/30/2018,Comp Shingle
+15758,5650,Washington Blvd,Los Angeles,CA,90016,"5650 Washington Blvd, Los Angeles, CA 90016, USA",34.0353977,-118.3669978,Los Angeles County,Los Angeles Dept of Water & Power,06/18/2019,06/30/2021,Built Up
+12732,1581,259th St,Los Angeles,CA,90710,"1581 259th St, Harbor City, CA 90710, USA",33.7884691,-118.3039477,Los Angeles County,Los Angeles Dept of Water & Power,11/04/2015,09/30/2016,Built Up
+5168,725,Ceres Ave,Los Angeles,CA,90021,"725 Ceres Ave, Los Angeles, CA 90021, USA",34.0376163,-118.2440509,Los Angeles County,Los Angeles Dept of Water & Power,05/02/2019,02/29/2020,Class A or B
+24286,2733,N San Fernando Rd,Los Angeles,CA,90065,"2733 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1102068,-118.2424519,Los Angeles County,Los Angeles Dept of Water & Power,02/11/2015,01/01/2016,"CHANGE OF USE FROM MACHINE SHOP TO OFFICE ( 2371 SF ) , TI  AND REROOF"
+17282,7412,Varna Ave,Los Angeles,CA,91605,"7412 Varna Ave, North Hollywood, CA 91605, USA",34.2051525,-118.4238176,Los Angeles County,Los Angeles Dept of Water & Power,10/28/2015,07/31/2016,Built Up
+5171,719,Ceres Ave,Los Angeles,CA,90021,"719 Ceres Ave, Los Angeles, CA 90021, USA",34.0378249,-118.2439367,Los Angeles County,Los Angeles Dept of Water & Power,09/23/2015,03/31/2016,Class A or B
+9523,1843,Arapahoe St,Los Angeles,CA,90006,"1843 Arapahoe St, Los Angeles, CA 90006, USA",34.0406099,-118.2854137,Los Angeles County,Los Angeles Dept of Water & Power,05/31/2013,10/31/2013,Built Up
+42068,2902,Gilroy St,Los Angeles,CA,90039,"2902 Gilroy St, Los Angeles, CA 90039, USA",34.1061104,-118.2514974,Los Angeles County,Los Angeles Dept of Water & Power,01/30/2014,10/31/2015,Built Up
+18395,708,Traction Ave,Los Angeles,CA,90013,"708 Traction Ave, Los Angeles, CA 90013, USA",34.0452903,-118.2364392,Los Angeles County,Los Angeles Dept of Water & Power,01/28/2016,05/31/2017,Built Up
+4346,16116,Cohasset St,Los Angeles,CA,91406,"16116 Cohasset St, Van Nuys, CA 91406, USA",34.2063384,-118.4842974,Los Angeles County,Los Angeles Dept of Water & Power,08/14/2015,01/31/2016,Built Up
+10200,5081,Alhambra Ave,Los Angeles,CA,90032,"5081 Alhambra Ave, Los Angeles, CA 90032, USA",34.0713276,-118.1755134,Los Angeles County,Los Angeles Dept of Water & Power,03/31/2019,05/31/2019,Built Up
+17136,8687,Venice Blvd,Los Angeles,CA,90034,"8687 Venice Blvd, Los Angeles, CA 90034, USA",34.0331515,-118.3822262,Los Angeles County,Los Angeles Dept of Water & Power,10/23/2013,07/31/2015,Built Up
+42604,7230,Fulton Ave,Los Angeles,CA,91605,"7230 Fulton Ave, North Hollywood, CA 91605, USA",34.2020672,-118.4220177,Los Angeles County,Los Angeles Dept of Water & Power,10/19/2015,02/28/2017,Built Up
+19246,8144,Sunland Blvd,Los Angeles,CA,91352,"8144 Sunland Blvd, Sun Valley, CA 91352, USA",34.218134,-118.368994,Los Angeles County,Los Angeles Dept of Water & Power,10/31/2016,07/31/2018,Built Up
+16509,11852,Vose St,Los Angeles,CA,91605,"11852 Vose St, North Hollywood, CA 91605, USA",34.1981123,-118.3916408,Los Angeles County,Los Angeles Dept of Water & Power,03/28/2019,03/31/2020,Class A or B
+69305,606,S Olive St,Los Angeles,CA,90014,"606 S Olive St, Los Angeles, CA 90014, USA",34.0477206,-118.2541013,Los Angeles County,,01/11/2013,06/30/2013,Class A or B
+69306,8318,De Soto Ave,Los Angeles,CA,91304,"8318 De Soto Ave, Canoga Park, CA 91304, USA",34.220472,-118.5885344,Los Angeles County,,01/17/2013,07/31/2014,Built Up
+69307,2716,Stanford Ave,Los Angeles,CA,90011,"2716 Stanford Ave, Los Angeles, CA 90011, USA",34.0194961,-118.2601446,Los Angeles County,,01/28/2013,08/31/2014,REMOVE EXISTING SHINGLES; REROOF IN 30 YEAR CHINGLES OVER (1)  1.5 LB
+69308,2379,Westwood Blvd,Los Angeles,CA,90064,"2379 Westwood Blvd, Los Angeles, CA 90064, USA",34.0406085,-118.4292255,Los Angeles County,,01/29/2013,03/31/2014,Built Up
+69309,830,E 59th St,Los Angeles,CA,90001,"830 E 59th St, Los Angeles, CA 90001, USA",33.9867818,-118.2606109,Los Angeles County,,01/30/2013,12/31/2013,REROOF 70 SQUARES W/CLASS 'A' MATERIALS WEIGHING LESS THAN 6 POUNDS PE
+69310,1496,W Colorado Blvd,Pasadena,CA,91105,"1496 W Colorado Blvd, Pasadena, CA 91105, USA",34.1406227,-118.1800787,Los Angeles County,,02/11/2013,06/30/2014,Comp Shingle
+69311,1100,S La Cienega Blvd,Los Angeles,CA,90035,"1100 S La Cienega Blvd, Los Angeles, CA 90035, USA",34.0568679,-118.375961,Los Angeles County,,02/13/2013,01/31/2014,Built Up
+69312,5655,W Adams Blvd,Los Angeles,CA,90016,"5655 W Adams Blvd, Los Angeles, CA 90016, USA",34.0327952,-118.3666025,Los Angeles County,,02/20/2013,06/30/2013,Class A or B
+69313,18026,Ventura Blvd,Los Angeles,CA,91316,"18026 Ventura Blvd, Encino, CA 91316, USA",34.1646142,-118.5254903,Los Angeles County,,02/21/2013,10/31/2013,Built Up
+69314,13020,San Vicente Blvd,Los Angeles,CA,90049,"13020 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0483761,-118.4904837,Los Angeles County,,02/27/2013,05/31/2014,Tear off existing roofing material and reroof with 30yr shingles.
+69315,1201,South La Brea Ave,Los Angeles,CA,90019,"1201 South La Brea Ave, Los Angeles, CA 90019, USA",34.0532016,-118.3441486,Los Angeles County,,02/27/2013,05/31/2014,Reroof with torch down roofing system
+69316,651,N La Cienega Blvd,Los Angeles,CA,90069,"651 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.0834685,-118.3768237,Los Angeles County,,02/28/2013,04/30/2014,Built Up
+69332,1880,Century Park E,Los Angeles,CA,90067,"1880 Century Park E, Los Angeles, CA 90067, USA",34.0619024,-118.4141652,Los Angeles County,,,,
+69317,1019,N Avalon Blvd,Los Angeles,CA,90744,"1019 N Avalon Blvd, Wilmington, CA 90744, USA",33.7834896,-118.2630548,Los Angeles County,,03/01/2013,01/31/2014,Class A or B
+69320,1043,Abbot Kinney Blvd,Los Angeles,CA,90291,"1043 Abbot Kinney Blvd, Venice, CA 90291, USA",33.9920615,-118.4709991,Los Angeles County,,03/07/2013,02/28/2014,Comp Shingle
+69318,7625,Melrose Ave,Los Angeles,CA,90046,"7625 Melrose Ave, Los Angeles, CA 90046, USA",34.083919,-118.3561442,Los Angeles County,,03/05/2013,06/30/2013,Class A or B
+69321,24911,S Western Ave,Lomita,CA,90717,"24911 S Western Ave, Lomita, CA 90717, USA",33.7983959,-118.3085777,Los Angeles County,,03/08/2013,07/31/2014,Class A or B
+69322,921,N La Cienega Blvd,Los Angeles,CA,90069,"921 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.0875785,-118.3767598,Los Angeles County,,04/08/2013,08/31/2014,Built Up
+69323,7955,W 3rd St,Los Angeles,CA,90048,"7955 W 3rd St, Los Angeles, CA 90048, USA",34.0720315,-118.3633423,Los Angeles County,,04/17/2013,02/28/2014,Built Up
+69324,18224,Parthenia St,Los Angeles,CA,91325,"18224 Parthenia St, Northridge, CA 91325, USA",34.2284704,-118.530336,Los Angeles County,,04/22/2013,06/30/2014,Comp Shingle
+69325,10807,San Fernando Rd,Los Angeles,CA,91331,"10807 San Fernando Rd, Pacoima, CA 91331, USA",34.266321,-118.4226539,Los Angeles County,,04/25/2013,03/31/2014,Class A or B
+69326,1010,N Highland Ave,Los Angeles,CA,90038,"1010 N Highland Ave, Los Angeles, CA 90038, USA",34.089341,-118.3382046,Los Angeles County,,05/02/2013,09/30/2014,Built Up
+69328,6622,Melrose Ave,Los Angeles,CA,90036,"6622 Melrose Ave, Los Angeles, CA 90036, USA",34.0832663,-118.339405,Los Angeles County,,05/08/2013,05/31/2013,Built Up
+69329,19761,Bahama St,Los Angeles,CA,91324,"19761 Bahama St, Northridge, CA 91324, USA",34.2340286,-118.5644324,Los Angeles County,,05/10/2013,09/30/2013,Built Up
+69331,8599,Venice Blvd,Los Angeles,CA,90034,"8599 Venice Blvd, Los Angeles, CA 90034, USA",34.0344335,-118.3801392,Los Angeles County,,05/15/2013,07/31/2013,Built Up
+69333,15321,S Figueroa St,Gardena,CA,90248,"15321 S Figueroa St, Gardena, CA 90248, USA",33.8921709,-118.283233,Los Angeles County,,05/23/2013,10/31/2014,Class A or B
+69334,208,Lincoln Blvd,Los Angeles,CA,90291,"208 Lincoln Blvd, Venice, CA 90291, USA",34.0018235,-118.468251,Los Angeles County,,05/23/2013,12/31/2014,Built Up
+69335,7832,Alabama Ave,Los Angeles,CA,91304,"7832 Alabama Ave, Canoga Park, CA 91304, USA",34.2123137,-118.5991668,Los Angeles County,,05/31/2013,08/31/2014,Built Up
+69337,1811,N Western Ave,Los Angeles,CA,90027,"1811 N Western Ave, Los Angeles, CA 90027, USA",34.1038283,-118.3097105,Los Angeles County,,06/04/2013,07/31/2013,Built Up
+69338,10100,N Balboa Blvd,Los Angeles,CA,91344,"10100 N Balboa Blvd, Granada Hills, CA 91344, USA",34.2540082,-118.5019198,Los Angeles County,,06/04/2013,10/31/2014,Built Up
+69339,5550,Thornburn St,Los Angeles,CA,90045,"5550 Thornburn St, Los Angeles, CA 90045, USA",33.9731268,-118.3773355,Los Angeles County,,06/11/2013,10/31/2013,Comp Shingle
+69340,22330,Sherman Way,Los Angeles,CA,91303,"22330 Sherman Way, Canoga Park, CA 91303, USA",34.2006279,-118.6136087,Los Angeles County,,06/19/2013,12/31/2013,Built Up
+69341,8600,N Wilbur Ave,Los Angeles,CA,91324,"8600 N Wilbur Ave, Northridge, CA 91324, USA",34.230919,-118.544923,Los Angeles County,,06/28/2013,12/31/2013,Built Up
+69342,1301,N Vermont Ave,Los Angeles,CA,90027,"1301 N Vermont Ave, Los Angeles, CA 90027, USA",34.0956719,-118.2919499,Los Angeles County,,07/03/2013,02/28/2014,Built Up
+69344,2701,Newell St,Los Angeles,CA,90039,"2701 Newell St, Los Angeles, CA 90039, USA",34.1003031,-118.2463123,Los Angeles County,,07/15/2013,05/31/2015,Comp Shingle
+69345,7641,Densmore Ave,Los Angeles,CA,91406,"7641 Densmore Ave, Van Nuys, CA 91406, USA",34.2095996,-118.4776143,Los Angeles County,,07/16/2013,01/31/2014,Built Up
+69346,5127,Laurel Canyon Blvd,Los Angeles,CA,91607,"5127 Laurel Canyon Blvd, Valley Village, CA 91607, USA",34.163764,-118.3968215,Los Angeles County,,07/30/2013,04/30/2015,Built Up
+69347,545,N Commonwealth Ave,Los Angeles,CA,90004,"545 N Commonwealth Ave, Los Angeles, CA 90004, USA",34.0807231,-118.2858932,Los Angeles County,,08/02/2013,06/30/2015,WATER DAMAGE REPAIR TO (E) FRONT DECK (323 SF) AND REROOF CLASS  A (30
+69348,7137,Reseda Blvd,Los Angeles,CA,91335,"7137 Reseda Blvd, Reseda, CA 91335, USA",34.2004073,-118.5364559,Los Angeles County,,08/08/2013,07/31/2014,Built Up
+69349,1828,Sawtelle Blvd,Los Angeles,CA,90025,"1828 Sawtelle Blvd, Los Angeles, CA 90025, USA",34.0433477,-118.4453795,Los Angeles County,,08/12/2013,05/31/2014,Comp Shingle
+69350,3150,N San Fernando Rd,Los Angeles,CA,90065,"3150 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1152484,-118.2484594,Los Angeles County,,08/13/2013,06/30/2014,Built Up
+69351,10479,W Pico Blvd,Los Angeles,CA,90064,"10479 W Pico Blvd, Los Angeles, CA 90064, USA",34.0455742,-118.4190029,Los Angeles County,,08/13/2013,10/31/2013,"Tear off existing roofing material  and reroof with class ""A"", title 2"
+69352,10425,W Pico Blvd,Los Angeles,CA,90064,"10425 W Pico Blvd, Los Angeles, CA 90064, USA",34.0462261,-118.4179989,Los Angeles County,,08/13/2013,10/31/2013,"Tear off existing roofing material.  Reroof with class ""A"" mission 2pc"
+69353,4901,Marionwood Dr,Los Angeles,CA,90230,"4901 Marionwood Dr, Los Angeles, CA 90230, USA",33.9933604,-118.4096679,Los Angeles County,,08/16/2013,10/31/2013,Built Up
+69354,8801,Bellanca Ave,Los Angeles,CA,90045,"8801 Bellanca Ave, Los Angeles, CA 90045, USA",33.9570484,-118.3809814,Los Angeles County,,08/22/2013,01/31/2015,Built Up
+69355,20133,Sherman Way,Los Angeles,CA,91306,"20133 Sherman Way, Winnetka, CA 91306, USA",34.2020269,-118.5722294,Los Angeles County,,08/26/2013,03/31/2014,Built Up
+69356,17021,W Roscoe Blvd,Los Angeles,CA,91325,"17021 W Roscoe Blvd, Northridge, CA 91325, USA",34.221425,-118.5038423,Los Angeles County,,08/27/2013,01/31/2014,Built Up
+69357,446,South La Brea Ave,Los Angeles,CA,90036,"446 South La Brea Ave, Los Angeles, CA 90036, USA",34.0655188,-118.3436652,Los Angeles County,,09/09/2013,03/31/2015,Built Up
+69358,370,S Clarence St,Los Angeles,CA,90033,"370 S Clarence St, Los Angeles, CA 90033, USA",34.0434606,-118.2235599,Los Angeles County,,09/11/2013,10/31/2013,Built Up
+69359,13746,Victory Blvd,Los Angeles,CA,91401,"13746 Victory Blvd, Van Nuys, CA 91401, USA",34.1863858,-118.4327165,Los Angeles County,,09/17/2013,06/30/2015,Class A or B
+69360,1700,S Western Ave,Los Angeles,CA,90006,"1700 S Western Ave, Los Angeles, CA 90006, USA",34.0425174,-118.3087168,Los Angeles County,,09/19/2013,12/31/2014,Built Up
+69361,15041,Keswick St,Los Angeles,CA,91405,"15041 Keswick St, Van Nuys, CA 91405, USA",34.2108927,-118.4605229,Los Angeles County,,09/24/2013,09/30/2013,Built Up
+69362,20434,Sherman Way,Los Angeles,CA,91306,"20434 Sherman Way, Winnetka, CA 91306, USA",34.2008327,-118.5786841,Los Angeles County,,10/09/2013,10/31/2015,Built Up
+69363,4953,Franklin Ave,Los Angeles,CA,90027,"4953 Franklin Ave, Los Angeles, CA 90027, USA",34.1056044,-118.2975849,Los Angeles County,,10/11/2013,04/30/2015,Comp Shingle
+69364,16913,Devonshire St,Los Angeles,CA,91344,"16913 Devonshire St, Granada Hills, CA 91344, USA",34.257995,-118.5006517,Los Angeles County,,10/17/2013,06/30/2015,Built Up
+69365,826,N La Cienega Blvd,Los Angeles,CA,90069,"826 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.0860996,-118.3761207,Los Angeles County,,10/24/2013,03/31/2014,Built Up
+69366,9401,Oso Ave,Los Angeles,CA,91311,"9401 Oso Ave, Chatsworth, CA 91311, USA",34.2410906,-118.5760594,Los Angeles County,,10/29/2013,03/31/2015,Built Up
+69367,11758,W Olympic Blvd,Los Angeles,CA,90064,"11758 W Olympic Blvd, Los Angeles, CA 90064, USA",34.0330965,-118.449279,Los Angeles County,,10/31/2013,07/31/2015,Built Up
+69368,1765,S La Cienega Blvd,Los Angeles,CA,90035,"Cienega (VS-90), 1765 S La Cienega Blvd, Los Angeles, CA 90035, USA",34.0454565,-118.3771355,Los Angeles County,,11/19/2013,09/30/2015,Comp Shingle
+69369,7188,Sunset Blvd,Los Angeles,CA,90046,"7188 Sunset Blvd, Los Angeles, CA 90046, USA",34.0977182,-118.3467942,Los Angeles County,,11/19/2013,07/31/2014,Built Up
+69370,1064,251st St,Los Angeles,CA,90710,"1064 251st St, Harbor City, CA 90710, USA",33.7965013,-118.2950341,Los Angeles County,,11/26/2013,04/30/2014,Built Up
+69371,12035,Venice Blvd,Los Angeles,CA,90066,"12035 Venice Blvd, Los Angeles, CA 90066, USA",34.005864,-118.4300745,Los Angeles County,,11/29/2013,03/31/2014,Built Up
+69372,19419,W Ventura Blvd,Los Angeles,CA,91356,"19419 W Ventura Blvd, Tarzana, CA 91356, USA",34.165692,-118.5286845,Los Angeles County,,12/02/2013,03/31/2014,Built Up
+69373,3139,N San Fernando Rd,Los Angeles,CA,90065,"3139 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1160529,-118.2466778,Los Angeles County,,12/03/2013,10/31/2015,Built Up
+69375,11160,Hindry Ave,Los Angeles,CA,90045,"11160 Hindry Ave, Los Angeles, CA 90045, USA",33.9335432,-118.3713672,Los Angeles County,,12/19/2013,09/30/2014,Class A or B
+69376,11120,Hindry Ave,Los Angeles,CA,90045,"11120 Hindry Ave, Los Angeles, CA 90045, USA",33.9336099,-118.3719906,Los Angeles County,,12/19/2013,09/30/2014,Class A or B
+69377,15745,Stagg St,Los Angeles,CA,91406,"15745 Stagg St, Van Nuys, CA 91406, USA",34.2122974,-118.4765174,Los Angeles County,,12/30/2013,12/31/2013,Built Up
+69378,3349,La Cienega Pl,Los Angeles,CA,90016,"3349 La Cienega Pl, Los Angeles, CA 90016, USA",34.0275452,-118.3756642,Los Angeles County,,01/01/2014,03/31/2014,Built Up
+69379,7300,Topanga Canyon Blvd,Los Angeles,CA,91303,"7300 Topanga Canyon Blvd, Canoga Park, CA 91303, USA",34.2031932,-118.6053245,Los Angeles County,,01/10/2014,02/28/2014,Built Up
+69380,3709,Whittier Blvd,Los Angeles,CA,90023,"3709 Whittier Blvd, Los Angeles, CA 90023, USA",34.0248797,-118.1933445,Los Angeles County,,01/31/2014,01/31/2015,CHANGE OUT STOREFRONT WINDOWS AND REROOF WITH NEW TILES. APPLY NEW FLO
+69381,5426,Washington Blvd,Los Angeles,CA,90016,"5426 Washington Blvd, Los Angeles, CA 90016, USA",34.038379,-118.36113,Los Angeles County,,02/21/2014,02/28/2015,Built Up
+69382,8222,W 3rd St,Los Angeles,CA,90048,"8222 W 3rd St, Los Angeles, CA 90048, USA",34.0722991,-118.3688215,Los Angeles County,,02/21/2014,01/31/2016,Built Up
+69383,21438,W Ingomar St,Los Angeles,CA,91304,"21438 W Ingomar St, West Hills, CA 91304, USA",34.211618,-118.6426884,Los Angeles County,,02/25/2014,01/31/2014,Built Up
+69384,1600,Campus Rd,Los Angeles,CA,90041,"1600 Campus Rd, Los Angeles, CA 90041, USA",34.129581,-118.210692,Los Angeles County,,03/05/2014,10/31/2015,Comp Shingle
+69385,2201,W 54th St,Los Angeles,CA,90043,"2201 W 54th St, Los Angeles, CA 90043, USA",33.9933427,-118.3173188,Los Angeles County,,03/06/2014,01/31/2016,Built Up
+69386,9401,Reseda Blvd,Los Angeles,CA,91324,"9401 Reseda Blvd, Northridge, CA 91324, USA",34.2411193,-118.5364512,Los Angeles County,,03/30/2014,07/31/2015,Built Up
+69387,12171,San Fernando Rd,Los Angeles,CA,91342,"12171 San Fernando Rd, Sylmar, CA 91342, USA",34.291062,-118.4503759,Los Angeles County,,04/02/2014,07/31/2014,Comp Shingle
+69388,14912,Burbank Blvd,Los Angeles,CA,91411,"14912 Burbank Blvd, Sherman Oaks, CA 91411, USA",34.1718987,-118.4579455,Los Angeles County,,04/02/2014,04/30/2015,Class A or B
+69389,15230,W San Fernando Mission Blvd,Los Angeles,CA,91345,"15230 W San Fernando Mission Blvd, Mission Hills, CA 91345, USA",34.2759755,-118.4536724,Los Angeles County,,04/07/2014,04/30/2014,Built Up
+69390,11155,Sepulveda Blvd,Los Angeles,CA,91345,"11155 Sepulveda Blvd, Mission Hills, CA 91345, USA",34.273619,-118.4687662,Los Angeles County,,04/15/2014,04/30/2014,Built Up
+69391,19743,Bahama St,Los Angeles,CA,91324,"19743 Bahama St, Northridge, CA 91324, USA",34.2336391,-118.563829,Los Angeles County,,04/21/2014,09/30/2015,Built Up
+69393,18440,W Sherman Way,Los Angeles,CA,91335,"18440 W Sherman Way, Reseda, CA 91335, USA",34.2010758,-118.5262333,Los Angeles County,,05/06/2014,10/31/2015,Built Up
+69394,608,Mateo St,Los Angeles,CA,90021,"608 Mateo St, Los Angeles, CA 90021, USA",34.0376495,-118.2322552,Los Angeles County,,05/09/2014,05/31/2015,Built Up
+69399,11230,N Ilex Ave,Los Angeles,CA,91331,"11230 N Ilex Ave, Pacoima, CA 91331, USA",34.2736101,-118.4321494,Los Angeles County,,05/27/2014,07/31/2014,Built Up
+69395,2401,N San Fernando Rd,Los Angeles,CA,90065,"2401 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1062292,-118.2392575,Los Angeles County,,05/11/2014,03/31/2016,Built Up
+69396,2413,N San Fernando Rd,Los Angeles,CA,90065,"2413 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1064354,-118.2393681,Los Angeles County,,05/11/2014,03/31/2016,Built Up
+69397,7911,Winnetka Ave,Los Angeles,CA,91306,"7911 Winnetka Ave, Canoga Park, CA 91306, USA",34.2144873,-118.5720986,Los Angeles County,,05/16/2014,07/31/2014,Built Up
+69400,1226,N Alvarado St,Los Angeles,CA,90026,"1226 N Alvarado St, Los Angeles, CA 90026, USA",34.0787196,-118.2625066,Los Angeles County,,06/20/2014,01/31/2016,Built Up
+69398,4722,Haskell Ave,Los Angeles,CA,91436,"4722 Haskell Ave, Encino, CA 91436, USA",34.1559423,-118.4744889,Los Angeles County,,05/16/2014,05/31/2015,Comp Shingle
+69401,3469,Casitas Ave,Los Angeles,CA,90039,"3469 Casitas Ave, Los Angeles, CA 90039, USA",34.1201511,-118.2560805,Los Angeles County,,06/30/2014,12/31/2015,Built Up
+69402,7532,Lankershim Blvd,Los Angeles,CA,91605,"7532 Lankershim Blvd, North Hollywood, CA 91605, USA",34.2075238,-118.3873958,Los Angeles County,,07/15/2014,02/29/2016,Built Up
+69403,4914,Topanga Canyon Blvd,Los Angeles,CA,91364,"4914 Topanga Canyon Blvd, Woodland Hills, CA 91364, USA",34.1574372,-118.6055743,Los Angeles County,,07/28/2014,01/31/2016,Built Up
+69404,9687,Sunland Blvd,Los Angeles,CA,91040,"9687 Sunland Blvd, Sunland-Tujunga, CA 91040, USA",34.2472448,-118.356917,Los Angeles County,,08/13/2014,11/30/2015,Built Up
+69405,6641,Sunset Blvd,Los Angeles,CA,90028,"6641 Sunset Blvd, Los Angeles, CA 90028, USA",34.0984412,-118.3345974,Los Angeles County,,08/14/2014,10/31/2015,Built Up
+69406,2832,Blanchard St,Los Angeles,CA,90063,"2832 Blanchard St, Los Angeles, CA 90063, USA",34.0478466,-118.1981313,Los Angeles County,,08/21/2014,10/31/2015,Built Up
+69407,2231,Colby Ave,Los Angeles,CA,90064,"2231 Colby Ave, Los Angeles, CA 90064, USA",34.035001,-118.4445372,Los Angeles County,,08/25/2014,07/31/2016,Built Up
+69408,7561,Laurel Canyon Blvd,Los Angeles,CA,91605,"7561 Laurel Canyon Blvd, North Hollywood, CA 91605, USA",34.208189,-118.3969414,Los Angeles County,,09/01/2014,07/31/2016,Built Up
+69409,4609,Van Nuys Blvd,Los Angeles,CA,91403,"4609 Van Nuys Blvd, Sherman Oaks, CA 91403, USA",34.1550659,-118.4489614,Los Angeles County,,09/03/2014,08/31/2014,Built Up
+69410,131,N Occidental Blvd,Los Angeles,CA,90026,"131 N Occidental Blvd, Los Angeles, CA 90026, USA",34.0710378,-118.2794988,Los Angeles County,,09/19/2014,10/31/2014,Built Up
+69411,6659,Topanga Canyon Blvd,Los Angeles,CA,91303,"6659 Topanga Canyon Blvd, Woodland Hills, CA 91303, USA",34.1915884,-118.606249,Los Angeles County,,09/22/2014,11/30/2014,Built Up
+69412,24373,Vanowen St,Los Angeles,CA,91307,"24373 Vanowen St, West Hills, CA 91307, USA",34.1951927,-118.6562146,Los Angeles County,,09/24/2014,11/30/2014,Built Up
+69413,18448,W Sherman Way,Los Angeles,CA,91335,"18448 W Sherman Way, Reseda, CA 91335, USA",34.2010758,-118.5262333,Los Angeles County,,09/29/2014,10/31/2014,Built Up
+69414,12515,Ventura Blvd,Los Angeles,CA,91604,"12515 Ventura Blvd, Studio City, CA 91604, USA",34.1430492,-118.4061868,Los Angeles County,,10/02/2014,01/31/2016,Built Up
+69415,20350,Prairie St,Los Angeles,CA,91311,"20350 Prairie St, Chatsworth, CA 91311, USA",34.2385809,-118.5771537,Los Angeles County,,10/07/2014,03/31/2015,Built Up
+69416,21500,Wyandotte St,Los Angeles,CA,91303,"21500 Wyandotte St, Canoga Park, CA 91303, USA",34.202638,-118.5993059,Los Angeles County,,10/13/2014,06/30/2016,Built Up
+69417,3215,S La Cienega Blvd,Los Angeles,CA,90016,"3215 S La Cienega Blvd, Los Angeles, CA 90016, USA",34.0292162,-118.3722853,Los Angeles County,,10/22/2014,03/31/2016,REROOF W/CLASS 'A' MATERIALS 74 SQUARES COATING SYSTEM-APOC#248
+69419,1011,E L St,Los Angeles,CA,90744,"1011 E L St, Wilmington, CA 90744, USA",33.787521,-118.2502183,Los Angeles County,,10/29/2014,02/29/2016,Class A or B
+69420,11751,W Pico Blvd,Los Angeles,CA,90064,"11751 W Pico Blvd, Los Angeles, CA 90064, USA",34.0312556,-118.4469899,Los Angeles County,,10/29/2014,11/30/2014,Built Up
+69421,4887,Huntington Dr N,Los Angeles,CA,90032,"4887 Huntington Dr N, Los Angeles, CA 90032, USA",34.0869541,-118.1776248,Los Angeles County,,10/31/2014,06/30/2016,Built Up
+69422,19952,Ventura Blvd,Los Angeles,CA,91364,"19952 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1715015,-118.5678264,Los Angeles County,,11/07/2014,06/30/2016,Built Up
+69423,1519,Pleasant Ave,Los Angeles,CA,90033,"1519 Pleasant Ave, Los Angeles, CA 90033, USA",34.0492022,-118.2211612,Los Angeles County,,11/26/2014,10/31/2015,"REROOF  2000  sq  feet, change plywood as necessary.  CLASS A  SHINGLE"
+69424,14300,W Sherman Way,Los Angeles,CA,91405,"14300 W Sherman Way, Van Nuys, CA 91405, USA",34.2011946,-118.4508266,Los Angeles County,,12/08/2014,09/30/2015,Built Up
+69425,1655,Beverly Blvd,Los Angeles,CA,90026,"1655 Beverly Blvd, Los Angeles, CA 90026, USA",34.0642902,-118.2644605,Los Angeles County,,12/19/2014,07/31/2015,Built Up
+69426,916,N Western Ave,Los Angeles,CA,90029,"916 N Western Ave, Los Angeles, CA 90029, USA",34.0866929,-118.308769,Los Angeles County,,12/24/2014,10/31/2015,Built Up
+69427,12905,Riverside Dr,Los Angeles,CA,91423,"12905 Riverside Dr, Sherman Oaks, CA 91423, USA",34.1579165,-118.4142109,Los Angeles County,,12/29/2014,05/31/2015,Comp Shingle
+69428,5011,N White Oak Ave,Los Angeles,CA,91316,"5011 N White Oak Ave, Encino, CA 91316, USA",34.1731721,-118.5187794,Los Angeles County,,12/30/2014,10/31/2015,Built Up
+69429,22804,S Western Ave,Torrance,CA,90501,"22804 S Western Ave, Torrance, CA 90501, USA",33.8187765,-118.3086948,Los Angeles County,,12/31/2014,04/30/2016,REROOF 150 SQRS./W CLASS 'A' MATERIALS WEIGHING LESS THAN 6 POUNDS PER
+69430,19425,W Ventura Blvd,Los Angeles,CA,91356,"19425 W Ventura Blvd, Tarzana, CA 91356, USA",34.165692,-118.5286845,Los Angeles County,,01/05/2015,04/30/2016,Comp Shingle
+69431,2323,E 4th St,Los Angeles,CA,90033,"2323 E 4th St, Los Angeles, CA 90033, USA",34.0411482,-118.2119813,Los Angeles County,,01/06/2015,02/28/2015,Class A or B
+69432,24045,Frampton Ave,Los Angeles,CA,90710,"24045 Frampton Ave, Harbor City, CA 90710, USA",33.8057899,-118.3004397,Los Angeles County,,01/08/2015,04/30/2016,Built Up
+69433,5327,Santa Monica Blvd,Los Angeles,CA,90029,"5327 Santa Monica Blvd, Los Angeles, CA 90029, USA",34.0910602,-118.3056346,Los Angeles County,,01/12/2015,04/30/2015,Built Up
+69434,13237,Gladstone Ave,Los Angeles,CA,91342,"13237 Gladstone Ave, Sylmar, CA 91342, USA",34.3114001,-118.4297275,Los Angeles County,,01/13/2015,12/31/2015,Built Up
+69435,10875,Kinross Ave,Los Angeles,CA,90024,"10875 Kinross Ave, Los Angeles, CA 90024, USA",34.0610758,-118.4446494,Los Angeles County,,01/20/2015,03/31/2016,Built Up
+69436,11315,Venice Blvd,Los Angeles,CA,90066,"11315 Venice Blvd, Los Angeles, CA 90066, USA",34.01151,-118.420435,Los Angeles County,,01/20/2015,01/31/2016,Built Up
+69437,18751,Ventura Blvd,Los Angeles,CA,91356,"18751 Ventura Blvd, Tarzana, CA 91356, USA",34.1716673,-118.5422705,Los Angeles County,,02/12/2015,03/31/2016,Class A or B
+69438,11900,S Avalon Blvd,Los Angeles,CA,90061,"11900 S Avalon Blvd, Los Angeles, CA 90061, USA",33.9244683,-118.2648592,Los Angeles County,,02/13/2015,05/31/2016,Class A or B
+69439,7429,Melrose Ave,Los Angeles,CA,90046,"7429 Melrose Ave, Los Angeles, CA 90046, USA",34.0837994,-118.3519408,Los Angeles County,,02/17/2015,06/30/2015,Built Up
+69440,7427,Melrose Ave,Los Angeles,CA,90046,"7427 Melrose Ave, Los Angeles, CA 90046, USA",34.0838062,-118.3519248,Los Angeles County,,02/17/2015,06/30/2015,Built Up
+69441,12017,Vose St,Los Angeles,CA,91605,"12017 Vose St, North Hollywood, CA 91605, USA",34.1993292,-118.3949715,Los Angeles County,,02/19/2015,10/31/2015,Built Up
+69442,19900,Plummer St,Los Angeles,CA,91311,"19900 Plummer St, Chatsworth, CA 91311, USA",34.2419401,-118.5676698,Los Angeles County,,02/20/2015,02/29/2016,Class A or B
+69460,5800,Topanga Canyon Blvd,Los Angeles,CA,91367,"5800 Topanga Canyon Blvd, Woodland Hills, CA 91367, USA",34.176839,-118.6035755,Los Angeles County,,05/04/2015,01/31/2016,Built Up
+69445,3705,Woodlawn Ave,Los Angeles,CA,90011,"3705 Woodlawn Ave, Los Angeles, CA 90011, USA",34.0147063,-118.2730813,Los Angeles County,,03/05/2015,08/31/2016,Built Up
+69443,4112,W Slauson Ave,Los Angeles,CA,90043,"4112 W Slauson Ave, Los Angeles, CA 90043, USA",33.9886476,-118.3463318,Los Angeles County,,02/23/2015,07/31/2015,Comp Shingle
+69444,864,S New Hampshire Ave,Los Angeles,CA,90005,"864 S New Hampshire Ave, Los Angeles, CA 90005, USA",34.0563585,-118.2925387,Los Angeles County,,02/24/2015,12/31/2015,Class A or B
+52863,12445,Mountaingate Dr,Los Angeles,CA,90049,"12445 Mountaingate Dr, Los Angeles, CA 90049, USA",34.1111549,-118.4891159,Los Angeles County,Los Angeles Dept of Water & Power,02/27/2015,05/31/2015,Comp Shingle
+69446,2634,Overland Ave,Los Angeles,CA,90064,"2634 Overland Ave, Los Angeles, CA 90064, USA",34.0383316,-118.4218096,Los Angeles County,,03/06/2015,07/31/2015,Comp Shingle
+69447,14428,Hamlin St,Los Angeles,CA,91401,"14428 Hamlin St, Van Nuys, CA 91401, USA",34.1883668,-118.4475764,Los Angeles County,,03/09/2015,03/31/2016,Built Up
+69448,1956,N Cahuenga Blvd,Los Angeles,CA,90068,"1956 N Cahuenga Blvd, Los Angeles, CA 90068, USA",34.1069054,-118.3304181,Los Angeles County,,03/09/2015,08/31/2016,Built Up
+69449,2337,Canyonback Rd,Los Angeles,CA,90049,"2337 Canyonback Rd, Los Angeles, CA 90049, USA",34.109735,-118.495308,Los Angeles County,,03/12/2015,05/31/2015,Built Up
+69450,404,W Pacific Coast Hwy,Los Angeles,CA,90744,"404 W Pacific Coast Hwy, Wilmington, CA 90744, USA",33.7905897,-118.2675085,Los Angeles County,,03/24/2015,12/31/2016,Class A or B
+69451,1411,Sunset Blvd,Los Angeles,CA,90026,"1411 Sunset Blvd, Los Angeles, CA 90026, USA",34.0746145,-118.2518559,Los Angeles County,,03/25/2015,06/30/2015,Comp Shingle
+69452,13455,Beach Ave,Marina Del Rey,CA,90292,"13455 Beach Ave, Marina Del Rey, CA 90292, USA",33.9908017,-118.4460224,Los Angeles County,,04/01/2015,03/31/2015,Built Up
+69453,7350,Melrose Ave,Los Angeles,CA,90046,"7350 Melrose Ave, Los Angeles, CA 90046, USA",34.0833354,-118.349973,Los Angeles County,,04/03/2015,10/31/2016,Class A or B
+69454,142,S Robertson Blvd,West Hollywood,CA,90048,"142 S Robertson Blvd, West Hollywood, CA 90048, USA",34.074205,-118.383462,Los Angeles County,,04/09/2015,01/31/2015,Built Up
+69455,3735,Cahuenga Blvd,Los Angeles,CA,90068,"3735 Cahuenga Blvd, Los Angeles, CA 90068, USA",34.1355301,-118.3620258,Los Angeles County,,04/10/2015,06/30/2015,Comp Shingle
+69457,8617,W Pico Blvd,Los Angeles,CA,90035,"8617 W Pico Blvd, Los Angeles, CA 90035, USA",34.0541299,-118.3791868,Los Angeles County,,04/27/2015,01/31/2017,Built Up
+69458,1204,Vine St,Los Angeles,CA,90038,"1204 Vine St, Los Angeles, CA 90038, USA",34.0928323,-118.3261575,Los Angeles County,,04/27/2015,05/31/2015,Built Up
+69461,8100,W 3rd St,Los Angeles,CA,90048,"8100 W 3rd St, Los Angeles, CA 90048, USA",34.0719553,-118.3660309,Los Angeles County,,05/12/2015,05/31/2015,Built Up
+69462,12328,Ventura Blvd,Los Angeles,CA,91604,"12328 Ventura Blvd, Studio City, CA 91604, USA",34.1427588,-118.401908,Los Angeles County,,05/15/2015,02/29/2016,Built Up
+69463,2624,Sunset Blvd,Los Angeles,CA,90026,"2624 Sunset Blvd, Los Angeles, CA 90026, USA",34.0801799,-118.2705233,Los Angeles County,,06/08/2015,10/31/2015,Built Up
+69464,21505,Sherman Way,Los Angeles,CA,91303,"21505 Sherman Way, Canoga Park, CA 91303, USA",34.2013338,-118.5992881,Los Angeles County,,06/09/2015,01/31/2016,Built Up
+69465,15725,Parthenia St,Los Angeles,CA,91343,"15725 Parthenia St, North Hills, CA 91343, USA",34.2295863,-118.4751736,Los Angeles County,,06/22/2015,01/31/2016,Built Up
+69466,7700,Melrose Ave,Los Angeles,CA,90046,"7700 Melrose Ave, Los Angeles, CA 90046, USA",34.0836065,-118.3575083,Los Angeles County,,06/23/2015,05/31/2015,Built Up
+69467,2249,Canyonback Rd,Los Angeles,CA,90049,"2249 Canyonback Rd, Los Angeles, CA 90049, USA",34.10682,-118.495507,Los Angeles County,,06/30/2015,05/31/2015,Built Up
+69468,2321,Canyonback Rd,Los Angeles,CA,90049,"2321 Canyonback Rd, Los Angeles, CA 90049, USA",34.109735,-118.495308,Los Angeles County,,06/30/2015,05/31/2015,Built Up
+69469,15456,Cabrito Rd,Los Angeles,CA,91406,"15456 Cabrito Rd, Van Nuys, CA 91406, USA",34.2168565,-118.4702591,Los Angeles County,,06/30/2015,06/30/2017,Built Up
+69471,2225,Canyonback Rd,Los Angeles,CA,90049,"2225 Canyonback Rd, Los Angeles, CA 90049, USA",34.10682,-118.495507,Los Angeles County,,07/07/2015,05/31/2015,Built Up
+69472,6201,Lankershim Blvd,Los Angeles,CA,91606,"6201 Lankershim Blvd, North Hollywood, CA 91606, USA",34.183271,-118.386072,Los Angeles County,,07/08/2015,11/30/2016,Built Up
+69473,11315,S Figueroa St,Los Angeles,CA,90061,"11315 S Figueroa St, Los Angeles, CA 90061, USA",33.931801,-118.28305,Los Angeles County,,07/08/2015,11/30/2016,Built Up
+69474,1412,N Glendale Blvd,Los Angeles,CA,90026,"1412 N Glendale Blvd, Los Angeles, CA 90026, USA",34.0800581,-118.2599283,Los Angeles County,,07/10/2015,10/31/2015,Built Up
+69475,12737,Glenoaks Blvd,Los Angeles,CA,91342,"12737 Glenoaks Blvd, Sylmar, CA 91342, USA",34.3014432,-118.4429069,Los Angeles County,,07/12/2015,10/31/2015,Built Up
+69476,12023,Vose St,Los Angeles,CA,91605,"12023 Vose St, North Hollywood, CA 91605, USA",34.1994772,-118.3949441,Los Angeles County,,07/13/2015,10/31/2015,Built Up
+69477,12019,Vose St,Los Angeles,CA,91605,"12019 Vose St, North Hollywood, CA 91605, USA",34.1985334,-118.3950714,Los Angeles County,,07/13/2015,10/31/2015,Built Up
+69479,5557,Reseda Blvd,Los Angeles,CA,91356,"5557 Reseda Blvd, Tarzana, CA 91356, USA",34.1713808,-118.536527,Los Angeles County,,07/24/2015,06/30/2016,Built Up
+69480,2019,Pasadena Ave,Los Angeles,CA,90031,"2019 Pasadena Ave, Los Angeles, CA 90031, USA",34.0748283,-118.2207271,Los Angeles County,,07/31/2015,12/31/2015,Built Up
+69481,8529,Willis Ave,Los Angeles,CA,91402,"8529 Willis Ave, Panorama City, CA 91402, USA",34.2255728,-118.455646,Los Angeles County,,07/31/2015,10/31/2016,Partial
+69482,11510,S Vermont Ave,Los Angeles,CA,90044,"11510 S Vermont Ave, Los Angeles, CA 90044, USA",33.9296747,-118.2913283,Los Angeles County,,08/05/2015,05/31/2016,Built Up
+69483,221,N Figueroa St,Los Angeles,CA,90012,"221 N Figueroa St, Los Angeles, CA 90012, USA",34.0591238,-118.2511674,Los Angeles County,,08/06/2015,05/31/2016,Built Up
+69485,9080,Woodman Ave,Los Angeles,CA,91331,"9080 Woodman Ave, Arleta, CA 91331, USA",34.2350715,-118.4398809,Los Angeles County,,08/12/2015,07/31/2016,Built Up
+69486,7419,Melrose Ave,Los Angeles,CA,90046,"7419 Melrose Ave, Los Angeles, CA 90046, USA",34.0837748,-118.3518106,Los Angeles County,,08/17/2015,06/30/2017,Built Up
+69487,16912,Devonshire St,Los Angeles,CA,91344,"16912 Devonshire St, Granada Hills, CA 91344, USA",34.2566261,-118.5006413,Los Angeles County,,08/17/2015,10/31/2016,Built Up
+69488,3621,Brunswick Ave,Los Angeles,CA,90039,"3621 Brunswick Ave, Los Angeles, CA 90039, USA",34.1194172,-118.2605043,Los Angeles County,,08/19/2015,02/28/2017,Partial
+69489,2029,S Sepulveda Blvd,Los Angeles,CA,90025,"2029 S Sepulveda Blvd, Los Angeles, CA 90025, USA",34.0418301,-118.4405197,Los Angeles County,,08/20/2015,05/31/2017,Built Up
+69490,8829,Shirley Ave,Los Angeles,CA,91324,"8829 Shirley Ave, Northridge, CA 91324, USA",34.2301528,-118.5583222,Los Angeles County,,08/26/2015,02/29/2016,Built Up
+69491,8827,Shirley Ave,Los Angeles,CA,91324,"8827 Shirley Ave, Northridge, CA 91324, USA",34.2299933,-118.5583222,Los Angeles County,,08/26/2015,02/29/2016,Built Up
+69492,8801,Shirley Ave,Los Angeles,CA,91324,"8801 Shirley Ave, Northridge, CA 91324, USA",34.2305541,-118.5588304,Los Angeles County,,08/26/2015,02/29/2016,Built Up
+69493,8843,Shirley Ave,Los Angeles,CA,91324,"8843 Shirley Ave, Northridge, CA 91324, USA",34.2311098,-118.5583222,Los Angeles County,,08/28/2015,02/29/2016,Built Up
+69494,9811,N Independence Ave,Los Angeles,CA,91311,"9811 N Independence Ave, Chatsworth, CA 91311, USA",34.2692768,-118.5907548,Los Angeles County,,09/01/2015,10/31/2015,Built Up
+69495,21053,Devonshire St,Los Angeles,CA,91311,"21053 Devonshire St, Chatsworth, CA 91311, USA",34.2575367,-118.5927917,Los Angeles County,,09/03/2015,12/31/2015,Built Up
+69496,12700,Braddock Dr,Los Angeles,CA,90066,"12700 Braddock Dr, Los Angeles, CA 90066, USA",33.9856711,-118.4238861,Los Angeles County,,09/25/2015,03/31/2016,Class A or B
+69497,3316,Sunset Blvd,Los Angeles,CA,90026,"3316 Sunset Blvd, Los Angeles, CA 90026, USA",34.0868937,-118.2757502,Los Angeles County,,10/07/2015,11/30/2016,Built Up
+69498,2806,Clearwater St,Los Angeles,CA,90039,"2806 Clearwater St, Los Angeles, CA 90039, USA",34.1071571,-118.2529136,Los Angeles County,,10/07/2015,11/30/2015,Built Up
+69499,7416,Varna Ave,Los Angeles,CA,91605,"7416 Varna Ave, North Hollywood, CA 91605, USA",34.205363,-118.4240915,Los Angeles County,,10/13/2015,07/31/2016,Built Up
+69500,1310,N Liberty St,Los Angeles,CA,90026,"1310 N Liberty St, Los Angeles, CA 90026, USA",34.0816804,-118.2595744,Los Angeles County,,10/20/2015,02/29/2016,Comp Shingle
+69501,13500,Van Nuys Blvd,Los Angeles,CA,91331,"13500 Van Nuys Blvd, Pacoima, CA 91331, USA",34.2621092,-118.4271438,Los Angeles County,,10/20/2015,10/31/2015,Built Up
+69502,18228,Parthenia St,Los Angeles,CA,91325,"18228 Parthenia St, Northridge, CA 91325, USA",34.2285047,-118.5307095,Los Angeles County,,10/20/2015,10/31/2016,Built Up
+69503,573,S Boyle Ave,Los Angeles,CA,90033,"573 S Boyle Ave, Los Angeles, CA 90033, USA",34.0395693,-118.2206261,Los Angeles County,,10/23/2015,09/30/2015,Comp Shingle
+69504,1861,W Gage Ave,Los Angeles,CA,90047,"1861 W Gage Ave, Los Angeles, CA 90047, USA",33.9821149,-118.3111096,Los Angeles County,,10/26/2015,10/31/2016,Built Up
+69505,13327,Ventura Blvd,Los Angeles,CA,91423,"13327 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1469148,-118.4235199,Los Angeles County,,10/26/2015,04/30/2016,Built Up
+69506,13325,Ventura Blvd,Los Angeles,CA,91423,"13325 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1469449,-118.4234401,Los Angeles County,,10/26/2015,04/30/2016,Built Up
+69507,11335,W Magnolia Blvd,Los Angeles,CA,91601,"11335 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1653473,-118.3787455,Los Angeles County,,10/26/2015,06/30/2017,Built Up
+69508,7811,Melrose Ave,Los Angeles,CA,90046,"7811 Melrose Ave, Los Angeles, CA 90046, USA",34.084044,-118.3599144,Los Angeles County,,10/26/2015,12/31/2015,Built Up
+69509,729,S Western Ave,Los Angeles,CA,90005,"729 S Western Ave, Los Angeles, CA 90005, USA",34.0587882,-118.3094486,Los Angeles County,,10/30/2015,03/31/2016,Built Up
+69523,18405,Superior St,Los Angeles,CA,91325,"18405 Superior St, Northridge, CA 91325, USA",34.2467525,-118.5340873,Los Angeles County,,12/15/2015,10/31/2015,Comp Shingle
+69510,19630,Pacific Gateway Dr,Torrance,CA,90502,"19630 Pacific Gateway Dr, Torrance, CA 90502, USA",33.8529664,-118.2945939,Los Angeles County,,11/06/2015,06/30/2017,Class A or B
+69511,4557,York Blvd,Los Angeles,CA,90041,"4557 York Blvd, Los Angeles, CA 90041, USA",34.1237398,-118.2167291,Los Angeles County,,11/06/2015,12/31/2016,Built Up
+69512,7670,Foothill Blvd,Los Angeles,CA,91042,"7670 Foothill Blvd, Tujunga, CA 91042, USA",34.2561024,-118.2999145,Los Angeles County,,11/10/2015,04/30/2016,Built Up
+69513,10967,Weyburn Ave,Los Angeles,CA,90024,"10967 Weyburn Ave, Los Angeles, CA 90024, USA",34.062366,-118.4476235,Los Angeles County,,11/13/2015,01/31/2017,Comp Shingle
+69514,943,N Vignes St,Los Angeles,CA,90012,"943 N Vignes St, Los Angeles, CA 90012, USA",34.0578143,-118.2321495,Los Angeles County,,11/16/2015,10/31/2015,Built Up
+69515,11851,Ventura Blvd,Los Angeles,CA,91604,"11851 Ventura Blvd, Studio City, CA 91604, USA",34.1429427,-118.390332,Los Angeles County,,11/20/2015,05/31/2017,Built Up
+69516,929,Academy Rd,Los Angeles,CA,90012,"929 Academy Rd, Los Angeles, CA 90012, USA",34.0808386,-118.2377234,Los Angeles County,,11/23/2015,01/31/2016,Built Up
+69518,210,W Florence Ave,Los Angeles,CA,90003,"210 W Florence Ave, Los Angeles, CA 90003, USA",33.9745101,-118.276573,Los Angeles County,,11/30/2015,07/31/2017,Built Up
+69519,20601,Plummer St,Los Angeles,CA,91311,"20601 Plummer St, Chatsworth, CA 91311, USA",34.2431494,-118.5823289,Los Angeles County,,11/30/2015,08/31/2016,Built Up
+69520,5901,Venice Blvd,Los Angeles,CA,90034,"5901 Venice Blvd, Los Angeles, CA 90034, USA",34.0402124,-118.3705286,Los Angeles County,,12/01/2015,05/31/2017,Built Up
+69521,1355,S Westwood Blvd,Los Angeles,CA,90024,"1355 S Westwood Blvd, Los Angeles, CA 90024, USA",34.0596208,-118.4447408,Los Angeles County,,12/02/2015,08/31/2016,Comp Shingle
+69524,5161,Lankershim Blvd,Los Angeles,CA,91601,"5161 Lankershim Blvd, North Hollywood, CA 91601, USA",34.1642783,-118.3747284,Los Angeles County,,12/16/2015,04/30/2016,Built Up
+69522,7004,Van Nuys Blvd,Los Angeles,CA,91405,"7004 Van Nuys Blvd, Van Nuys, CA 91405, USA",34.1976828,-118.4476229,Los Angeles County,,12/03/2015,12/31/2016,Built Up
+69525,10960,Moorpark St,Los Angeles,CA,91602,"10960 Moorpark St, North Hollywood, CA 91602, USA",34.1501562,-118.3698947,Los Angeles County,,12/16/2015,04/30/2017,Built Up
+69526,6907,Melrose Ave,Los Angeles,CA,90038,"6907 Melrose Ave, Los Angeles, CA 90038, USA",34.0836293,-118.3418915,Los Angeles County,,12/18/2015,03/31/2016,Built Up
+69527,8670,W Pico Blvd,Los Angeles,CA,90035,"8670 W Pico Blvd, Los Angeles, CA 90035, USA",34.0539944,-118.3810508,Los Angeles County,,12/23/2015,01/31/2016,Built Up
+69528,5909,W 3rd St,Los Angeles,CA,90036,"5909 W 3rd St, Los Angeles, CA 90036, USA",34.0697324,-118.3490504,Los Angeles County,,12/28/2015,07/31/2016,Built Up
+69535,709,N Gardner St,Los Angeles,CA,90046,"709 N Gardner St, Los Angeles, CA 90046, USA",34.0839991,-118.3534516,Los Angeles County,,01/21/2016,06/30/2017,Comp Shingle
+69531,5238,Vineland Ave,Los Angeles,CA,91601,"5238 Vineland Ave, North Hollywood, CA 91601, USA",34.1659919,-118.3700492,Los Angeles County,,01/15/2016,07/31/2016,Built Up
+69529,401,E 58th St,Los Angeles,CA,90011,"401 E 58th St, Los Angeles, CA 90011, USA",33.9901034,-118.2672033,Los Angeles County,,12/31/2015,07/31/2017,Built Up
+69532,21338,Dumetz Rd,Los Angeles,CA,91364,"21338 Dumetz Rd, Woodland Hills, CA 91364, USA",34.1573458,-118.5960282,Los Angeles County,,01/19/2016,06/30/2017,Partial
+69534,7712,S Western Ave,Los Angeles,CA,90047,"7712 S Western Ave, Los Angeles, CA 90047, USA",33.969523,-118.308644,Los Angeles County,,01/21/2016,10/31/2015,Built Up
+69536,19951,Ventura Blvd,Los Angeles,CA,91364,"19951 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1723362,-118.5677434,Los Angeles County,,02/02/2016,06/30/2017,Partial
+69537,1609,Lincoln Blvd,Los Angeles,CA,90291,"1609 Lincoln Blvd, Venice, CA 90291, USA",33.9966531,-118.4588214,Los Angeles County,,02/05/2016,12/31/2015,Built Up
+69538,10859,Venice Blvd,Los Angeles,CA,90034,"10859 Venice Blvd, Los Angeles, CA 90034, USA",34.0170777,-118.4107195,Los Angeles County,,02/05/2016,12/31/2015,Built Up
+69539,3932,Wilshire Blvd,Los Angeles,CA,90010,"3932 Wilshire Blvd, Los Angeles, CA 90010, USA",34.0613287,-118.3123592,Los Angeles County,,02/06/2016,03/31/2016,Built Up
+69540,4333,N Woodman Ave,Los Angeles,CA,91423,"4333 N Woodman Ave, Sherman Oaks, CA 91423, USA",34.1587818,-118.4317568,Los Angeles County,,02/11/2016,12/31/2016,Built Up
+69541,951,N La Cienega Blvd,Los Angeles,CA,90069,"951 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.0883781,-118.3767598,Los Angeles County,,02/11/2016,06/30/2017,Built Up
+69542,11734,Avon Way,Los Angeles,CA,90066,"11734 Avon Way, Los Angeles, CA 90066, USA",33.9979993,-118.4166069,Los Angeles County,,02/12/2016,06/30/2016,Class A or B
+69543,10431,Santa Monica Blvd,Los Angeles,CA,90025,"10431 Santa Monica Blvd, Los Angeles, CA 90025, USA",34.0568961,-118.4254085,Los Angeles County,,02/12/2016,07/31/2016,Partial
+69533,4899,Huntington Dr,Los Angeles,CA,90032,"4899 Huntington Dr, Los Angeles, CA 90032, USA",34.0869836,-118.1773744,Los Angeles County,,03/14/2016,04/30/2018,Built Up
+69530,12030,Riverside Dr,Los Angeles,CA,91607,"12030 Riverside Dr, Valley Village, CA 91607, USA",34.1572349,-118.3953837,Los Angeles County,,11/23/2016,10/31/2017,Built Up
+69544,14032,S Vermont Ave,Gardena,CA,90247,"14032 S Vermont Ave, Gardena, CA 90247, USA",33.904157,-118.2914662,Los Angeles County,,02/16/2016,05/31/2016,Built Up
+69545,11760,Gateway Blvd,Los Angeles,CA,90064,"11760 Gateway Blvd, Los Angeles, CA 90064, USA",34.0267996,-118.4434626,Los Angeles County,,02/17/2016,03/31/2016,Comp Shingle
+69546,12401,Ventura Blvd,Los Angeles,CA,91604,"12401 Ventura Blvd, Studio City, CA 91604, USA",34.1431317,-118.4031843,Los Angeles County,,02/18/2016,02/29/2016,Built Up
+69547,756,S Alvarado St,Los Angeles,CA,90057,"756 S Alvarado St, Los Angeles, CA 90057, USA",34.0550511,-118.277563,Los Angeles County,,02/20/2016,06/30/2017,Comp Shingle
+69548,3837,Wilshire Blvd,Los Angeles,CA,90010,"3837 Wilshire Blvd, Los Angeles, CA 90010, USA",34.0621335,-118.3099642,Los Angeles County,,02/23/2016,09/30/2015,Comp Shingle
+69549,1541,Wilshire Blvd,Los Angeles,CA,90017,"1541 Wilshire Blvd, Los Angeles, CA 90017, USA",34.0554017,-118.2695007,Los Angeles County,,02/25/2016,10/31/2015,Built Up
+69550,7601,Vineland Ave,Los Angeles,CA,91352,"7601 Vineland Ave, Sun Valley, CA 91352, USA",34.2086941,-118.3708938,Los Angeles County,,02/28/2016,02/28/2017,Built Up
+69551,14225,Ventura Blvd,Los Angeles,CA,91423,"14225 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1502861,-118.4430995,Los Angeles County,,03/08/2016,06/30/2016,Built Up
+69552,20101,Sherman Way,Los Angeles,CA,91306,"Subway, 20101 Sherman Way, Winnetka, CA 91306, USA",34.2019346,-118.5725942,Los Angeles County,,03/18/2016,03/31/2018,Built Up
+69553,12550,Van Nuys Blvd,Los Angeles,CA,91331,"12550 Van Nuys Blvd, Pacoima, CA 91331, USA",34.2765311,-118.4054708,Los Angeles County,,03/28/2016,11/30/2016,Built Up
+69554,17034,Parthenia St,Los Angeles,CA,91325,"17034 Parthenia St, Northridge, CA 91325, USA",34.2281471,-118.5039073,Los Angeles County,,03/30/2016,06/30/2016,Comp Shingle
+69555,4528,N Sepulveda Blvd,Los Angeles,CA,90049,"4528 N Sepulveda Blvd, Los Angeles, CA 90049, USA",34.1256372,-118.4788748,Los Angeles County,,03/31/2016,10/31/2016,Built Up
+69562,325,N Neptune Ave,Los Angeles,CA,90744,"325 N Neptune Ave, Wilmington, CA 90744, USA",33.7733646,-118.2688332,Los Angeles County,,05/02/2016,01/31/2016,Built Up
+69556,8701,S St Andrews Pl,Los Angeles,CA,90047,"8701 S St Andrews Pl, Los Angeles, CA 90047, USA",33.9590948,-118.3114844,Los Angeles County,,04/01/2016,01/31/2016,Built Up
+69557,1731,Ocean Front Walk,Los Angeles,CA,90291,"1731 Ocean Front Walk, Venice, CA 90291, USA",33.9859905,-118.4727408,Los Angeles County,,04/04/2016,07/31/2017,Built Up
+69558,1200,Vine St,Los Angeles,CA,90038,"1200 Vine St, Los Angeles, CA 90038, USA",34.0927521,-118.326013,Los Angeles County,,04/11/2016,05/31/2017,Built Up
+69559,402,N Soto St,Los Angeles,CA,90033,"402 N Soto St, Los Angeles, CA 90033, USA",34.0476887,-118.2068136,Los Angeles County,,04/13/2016,04/30/2018,Built Up
+69560,1333,W Pacific Coast Hwy,Los Angeles,CA,90710,"1333 W Pacific Coast Hwy, Harbor City, CA 90710, USA",33.7896275,-118.3002571,Los Angeles County,,04/18/2016,06/30/2016,Built Up
+69561,9165,Woodman Ave,Los Angeles,CA,91331,"9165 Woodman Ave, Arleta, CA 91331, USA",34.2367346,-118.4419115,Los Angeles County,,04/25/2016,05/31/2017,Comp Shingle
+69517,2159,Bay St,Los Angeles,CA,90021,"2159 Bay St, Los Angeles, CA 90021, USA",34.0315011,-118.2278548,Los Angeles County,,04/28/2016,11/30/2015,Comp Shingle
+69563,8751,Tampa Ave,Los Angeles,CA,91324,"8751 Tampa Ave, Northridge, CA 91324, USA",34.2297253,-118.554056,Los Angeles County,,05/02/2016,02/28/2018,Built Up
+69564,4650,Sunset Blvd,Los Angeles,CA,90027,"4650 Sunset Blvd, Los Angeles, CA 90027, USA",34.097817,-118.2898677,Los Angeles County,,05/09/2016,06/30/2016,Built Up
+69566,5339,Comercio Way,Los Angeles,CA,91364,"5339 Comercio Way, Woodland Hills, CA 91364, USA",34.1668779,-118.596096,Los Angeles County,,05/27/2016,01/31/2018,Built Up
+69567,6911,Topanga Canyon Blvd,Los Angeles,CA,91303,"6911 Topanga Canyon Blvd, Canoga Park, CA 91303, USA",34.1958694,-118.6062101,Los Angeles County,,05/31/2016,01/31/2016,Built Up
+69568,1501,E 41st St,Los Angeles,CA,90011,"1501 E 41st St, Los Angeles, CA 90011, USA",34.0089705,-118.2476661,Los Angeles County,,06/01/2016,01/31/2016,Built Up
+69570,4370,Winnetka Ave,Los Angeles,CA,91364,"4370 Winnetka Ave, Woodland Hills, CA 91364, USA",34.1503746,-118.5713923,Los Angeles County,,06/01/2016,01/01/2017,UPDATE RESTROOM TO ADA REQ'T; REROOF & ATTACH RECREATION BUILDING WITH
+69571,8427,Foothill Blvd,Los Angeles,CA,91040,"8427 Foothill Blvd, Sunland-Tujunga, CA 91040, USA",34.2599384,-118.316629,Los Angeles County,,06/03/2016,05/31/2017,Built Up
+69572,9936,Commerce Ave,Los Angeles,CA,91042,"9936 Commerce Ave, Tujunga, CA 91042, USA",34.2496648,-118.2884578,Los Angeles County,,06/06/2016,12/31/2016,Built Up
+69573,20351,Prairie St,Los Angeles,CA,91311,"20351 Prairie St, Chatsworth, CA 91311, USA",34.2392739,-118.5768573,Los Angeles County,,06/06/2016,07/31/2017,Built Up
+69574,10115,Canoga Ave,Los Angeles,CA,91311,"10115 Canoga Ave, Chatsworth, CA 91311, USA",34.2540873,-118.5981584,Los Angeles County,,06/07/2016,09/30/2017,Built Up
+69575,6628,Van Nuys Blvd,Los Angeles,CA,91405,"6628 Van Nuys Blvd, Van Nuys, CA 91405, USA",34.1915289,-118.4484075,Los Angeles County,,06/08/2016,02/28/2017,Built Up
+69576,560,N Western Ave,Los Angeles,CA,90732,"560 N Western Ave, San Pedro, CA 90732, USA",33.7510841,-118.305879,Los Angeles County,,06/13/2016,01/31/2016,Built Up
+69578,5720,2nd Ave,Los Angeles,CA,90043,"5720 2nd Ave, Los Angeles, CA 90043, USA",33.9906422,-118.3187296,Los Angeles County,,06/23/2016,01/31/2016,Built Up
+69579,8133,Vineland Ave,Los Angeles,CA,91352,"8133 Vineland Ave, Sun Valley, CA 91352, USA",34.2181391,-118.3714416,Los Angeles County,,06/24/2016,01/31/2016,Built Up
+69580,4265,S Broadway,Los Angeles,CA,90037,"4265 S Broadway, Los Angeles, CA 90037, USA",34.0060644,-118.2788365,Los Angeles County,,06/30/2016,06/30/2016,Built Up
+69581,14401,Dickens St,Los Angeles,CA,91423,"14401 Dickens St, Sherman Oaks, CA 91423, USA",34.1498488,-118.446398,Los Angeles County,,07/13/2016,01/31/2018,Comp Shingle
+69582,16649,Sherman Way,Los Angeles,CA,91406,"16649 Sherman Way, Van Nuys, CA 91406, USA",34.2013964,-118.4963978,Los Angeles County,,07/14/2016,11/30/2016,Built Up
+69583,17300,W Ventura Blvd,Los Angeles,CA,91356,"17300 W Ventura Blvd, Tarzana, CA 91356, USA",34.165232,-118.5272559,Los Angeles County,,07/14/2016,05/31/2017,Built Up
+69584,9710,N White Oak Ave,Los Angeles,CA,91325,"9710 N White Oak Ave, Northridge, CA 91325, USA",34.226667,-118.5200159,Los Angeles County,,07/22/2016,08/31/2017,Class A or B
+69585,5435,Cahuenga Blvd,Los Angeles,CA,91601,"5435 Cahuenga Blvd, North Hollywood, CA 91601, USA",34.1697227,-118.361946,Los Angeles County,,07/25/2016,12/31/2017,Built Up
+69586,9846,N White Oak Ave,Los Angeles,CA,91325,"9846 N White Oak Ave, Northridge, CA 91325, USA",34.226667,-118.5200159,Los Angeles County,,07/25/2016,12/31/2017,Built Up
+69587,15444,Nordhoff St,Los Angeles,CA,91343,"15444 Nordhoff St, North Hills, CA 91343, USA",34.2349555,-118.4689916,Los Angeles County,,07/26/2016,10/31/2017,Comp Shingle
+69588,15456,Nordhoff St,Los Angeles,CA,91343,"15456 Nordhoff St, North Hills, CA 91343, USA",34.2355497,-118.4691877,Los Angeles County,,07/26/2016,10/31/2017,Comp Shingle
+69589,14060,Astoria St,Los Angeles,CA,91342,"14060 Astoria St, Sylmar, CA 91342, USA",34.3104248,-118.4394474,Los Angeles County,,08/01/2016,01/31/2018,Built Up
+69590,3900,Stansbury Ave,Los Angeles,CA,91423,"3900 Stansbury Ave, Sherman Oaks, CA 91423, USA",34.139541,-118.4435984,Los Angeles County,,08/08/2016,07/31/2017,Built Up
+69605,1931,Pontius Ave,Los Angeles,CA,90025,"1931 Pontius Ave, Los Angeles, CA 90025, USA",34.0433847,-118.4415712,Los Angeles County,,10/28/2016,10/31/2015,Built Up
+69591,5927,Kester Ave,Los Angeles,CA,91411,"5927 Kester Ave, Van Nuys, CA 91411, USA",34.1783317,-118.4576581,Los Angeles County,,08/15/2016,08/31/2016,Built Up
+69592,10537,Santa Monica Blvd,Los Angeles,CA,90025,"10537 Santa Monica Blvd, Los Angeles, CA 90025, USA",34.0552215,-118.4280453,Los Angeles County,,08/15/2016,07/31/2016,Built Up
+69593,22622,Vanowen St,Los Angeles,CA,91307,"22622 Vanowen St, West Hills, CA 91307, USA",34.1928865,-118.6203431,Los Angeles County,,08/15/2016,08/31/2086,Class A or B
+69594,6331,Colfax Ave,Los Angeles,CA,91606,"6331 Colfax Ave, North Hollywood, CA 91606, USA",34.1857585,-118.3881181,Los Angeles County,,09/06/2016,06/30/2017,Built Up
+69595,7240,Medical Center Dr,Los Angeles,CA,91307,"7240 Medical Center Dr, West Hills, CA 91307, USA",34.2018657,-118.628201,Los Angeles County,,09/08/2016,04/30/2017,Built Up
+69596,18946,Ventura Blvd,Los Angeles,CA,91356,"18946 Ventura Blvd, Tarzana, CA 91356, USA",34.1721151,-118.5462608,Los Angeles County,,09/15/2016,04/30/2018,Comp Shingle
+69597,6524,8th Ave,Los Angeles,CA,90043,"6524 8th Ave, Los Angeles, CA 90043, USA",33.979958,-118.326264,Los Angeles County,,09/19/2016,07/31/2016,Built Up
+69598,12107,Moorpark St,Los Angeles,CA,91604,"12107 Moorpark St, Studio City, CA 91604, USA",34.150512,-118.3967799,Los Angeles County,,10/06/2016,02/28/2018,Comp Shingle
+69599,5350,Venice Blvd,Los Angeles,CA,90019,"5350 Venice Blvd, Los Angeles, CA 90019, USA",34.0439937,-118.3566273,Los Angeles County,,10/07/2016,07/31/2017,Class A or B
+69600,7323,Crenshaw Blvd,Los Angeles,CA,90043,"7323 Crenshaw Blvd, Los Angeles, CA 90043, USA",33.9729035,-118.3311039,Los Angeles County,,10/11/2016,05/31/2017,Comp Shingle
+69601,6020,Woodman Ave,Los Angeles,CA,91401,"6020 Woodman Ave, Van Nuys, CA 91401, USA",34.1801694,-118.4306858,Los Angeles County,,10/17/2016,07/31/2017,Built Up
+69602,3272,Motor Ave,Los Angeles,CA,90034,"3272 Motor Ave, Los Angeles, CA 90034, USA",34.0298228,-118.4106966,Los Angeles County,,10/17/2016,10/31/2017,Comp Shingle
+69603,10600,N Sepulveda Blvd,Los Angeles,CA,91345,"10600 N Sepulveda Blvd, Mission Hills, CA 91345, USA",34.2749758,-118.468043,Los Angeles County,,10/19/2016,12/31/2017,Built Up
+69604,1438,N Gower St,Los Angeles,CA,90028,"1438 N Gower St, Los Angeles, CA 90028, USA",34.0971223,-118.3221316,Los Angeles County,,11/23/2016,04/30/2018,Built Up
+69618,4020,Paloma St,Los Angeles,CA,90011,"4020 Paloma St, Los Angeles, CA 90011, USA",34.0102667,-118.2616616,Los Angeles County,,12/06/2016,05/31/2018,Built Up
+69606,22156,Sherman Way,Los Angeles,CA,91303,"22156 Sherman Way, Canoga Park, CA 91303, USA",34.2006209,-118.6100171,Los Angeles County,,11/02/2016,06/30/2018,Built Up
+69607,6742,Van Nuys Blvd,Los Angeles,CA,91405,"6742 Van Nuys Blvd, Van Nuys, CA 91405, USA",34.1934417,-118.4484073,Los Angeles County,,11/07/2016,05/31/2017,Built Up
+69608,715,Cypress Ave,Los Angeles,CA,90065,"715 Cypress Ave, Los Angeles, CA 90065, USA",34.091352,-118.2234856,Los Angeles County,,11/11/2016,10/31/2017,Built Up
+69609,1659,Sawtelle Blvd,Los Angeles,CA,90025,"1659 Sawtelle Blvd, Los Angeles, CA 90025, USA",34.045577,-118.4479234,Los Angeles County,,11/14/2016,05/31/2018,Built Up
+69610,2850,Hyperion Ave,Los Angeles,CA,90027,"2850 Hyperion Ave, Los Angeles, CA 90027, USA",34.1088528,-118.2713268,Los Angeles County,,11/15/2016,10/31/2016,Built Up
+69611,5773,Venice Blvd,Los Angeles,CA,90019,"5773 Venice Blvd, Los Angeles, CA 90019, USA",34.043179,-118.3645304,Los Angeles County,,11/18/2016,10/31/2017,Class A or B
+69612,7410,Beverly Blvd,Los Angeles,CA,90036,"7410 Beverly Blvd, Los Angeles, CA 90036, USA",34.0760035,-118.3516162,Los Angeles County,,11/28/2016,06/30/2017,Built Up
+69613,7412,Beverly Blvd,Los Angeles,CA,90036,"7412 Beverly Blvd, Los Angeles, CA 90036, USA",34.0761472,-118.3516801,Los Angeles County,,11/28/2016,06/30/2017,Built Up
+69614,4270,Wilshire Blvd,Los Angeles,CA,90010,"4270 Wilshire Blvd, Los Angeles, CA 90010, USA",34.061617,-118.321149,Los Angeles County,,11/29/2016,06/30/2018,Built Up
+69615,4405,Laurel Canyon Blvd,Los Angeles,CA,91607,"4405 Laurel Canyon Blvd, Valley Village, CA 91607, USA",34.150685,-118.396785,Los Angeles County,,11/30/2016,02/28/2018,Built Up
+69565,4705,S Main St,Los Angeles,CA,90037,"4705 S Main St, Los Angeles, CA 90037, USA",34.0008975,-118.2744287,Los Angeles County,,11/30/2016,10/31/2017,Built Up
+69616,5851,S Vermont Ave,Los Angeles,CA,90044,"5851 S Vermont Ave, Los Angeles, CA 90044, USA",33.9882469,-118.2916546,Los Angeles County,,11/30/2016,05/31/2017,Built Up
+69617,17151,W Ventura Blvd,Los Angeles,CA,91356,"17151 W Ventura Blvd, Tarzana, CA 91356, USA",34.165692,-118.5286845,Los Angeles County,,12/01/2016,12/31/2017,Built Up
+69619,1823,Sawtelle Blvd,Los Angeles,CA,90025,"1823 Sawtelle Blvd, Los Angeles, CA 90025, USA",34.0431159,-118.4459042,Los Angeles County,,12/08/2016,09/30/2018,Built Up
+69620,2777,E Washington Blvd,Los Angeles,CA,90023,"2777 E Washington Blvd, Los Angeles, CA 90023, USA",34.0176012,-118.2206357,Los Angeles County,,12/09/2016,06/30/2017,Built Up
+69621,9960,N Glenoaks Blvd,Los Angeles,CA,91352,"9960 N Glenoaks Blvd, Sun Valley, CA 91352, USA",34.2144459,-118.3499854,Los Angeles County,,12/12/2016,01/31/2017,Class A or B
+69622,9970,N Glenoaks Blvd,Los Angeles,CA,91352,"9970 N Glenoaks Blvd, Sun Valley, CA 91352, USA",34.2144459,-118.3499854,Los Angeles County,,12/12/2016,01/31/2017,Class A or B
+69623,9980,N Glenoaks Blvd,Los Angeles,CA,91352,"9980 N Glenoaks Blvd, Sun Valley, CA 91352, USA",34.2144459,-118.3499854,Los Angeles County,,12/12/2016,01/31/2017,Class A or B
+69624,5333,Alhambra Ave,Los Angeles,CA,90032,"5333 Alhambra Ave, Los Angeles, CA 90032, USA",34.0758995,-118.1698424,Los Angeles County,,12/15/2016,02/28/2017,Comp Shingle
+69625,3617,Crenshaw Blvd,Los Angeles,CA,90016,"3617 Crenshaw Blvd, Los Angeles, CA 90016, USA",34.0234629,-118.335465,Los Angeles County,,12/26/2016,07/31/2017,Built Up
+69626,15960,Blythe St,Los Angeles,CA,91406,"15960 Blythe St, Van Nuys, CA 91406, USA",34.214509,-118.4813267,Los Angeles County,,01/03/2017,09/30/2017,Built Up
+69627,10651,Burbank Blvd,Los Angeles,CA,91601,"10651 Burbank Blvd, North Hollywood, CA 91601, USA",34.1723862,-118.363334,Los Angeles County,,01/16/2017,07/31/2018,Built Up
+69629,13749,Riverside Dr,Los Angeles,CA,91423,"13749 Riverside Dr, Sherman Oaks, CA 91423, USA",34.1579222,-118.4328069,Los Angeles County,,02/10/2017,05/31/2017,Reroof for office building per Section 1510.4 of the LABC (approx. 65%
+69630,500,E Water St,Los Angeles,CA,90744,"WWL Vehicle Services Americas Inc., 500 E Water St, Wilmington, CA 90744, USA",33.7685508,-118.2568651,Los Angeles County,,02/15/2017,06/30/2018,Comp Shingle
+69631,1836,Hyperion Ave,Los Angeles,CA,90027,"1836 Hyperion Ave, Los Angeles, CA 90027, USA",34.09678,-118.27565,Los Angeles County,,02/17/2017,03/31/2018,Built Up
+69632,8052,Vineland Ave,Los Angeles,CA,91352,"8052 Vineland Ave, Sun Valley, CA 91352, USA",34.2172426,-118.3700036,Los Angeles County,,02/27/2017,01/31/2018,Built Up
+69643,1540,S Calzona St,Los Angeles,CA,90023,"1540 S Calzona St, Los Angeles, CA 90023, USA",34.0165371,-118.1964938,Los Angeles County,,,,
+69639,11940,Lindblade St,Culver City,CA,90230,"11940 Lindblade St, Culver City, CA 90230, USA",33.9943476,-118.4153747,Los Angeles County,,03/03/2017,08/31/2017,Class A or B
+69633,8417,Melrose Pl,West Hollywood,CA,90069,"8417 Melrose Pl, West Hollywood, CA 90069, USA",34.0837703,-118.3739295,Los Angeles County,,02/28/2017,11/30/2017,Built Up
+69634,133,W Ave 45,Los Angeles,CA,90065,"133 W Ave 45, Los Angeles, CA 90065, USA",34.0969323,-118.2079788,Los Angeles County,,02/28/2017,01/31/2018,"TEAR OFF, REROOF 21 SQUARES CLASS A OVER (E) SOLID SHEATHING. COOL ROO"
+69644,6731,Variel Ave,Los Angeles,CA,91303,"6731 Variel Ave, Canoga Park, CA 91303, USA",34.1926334,-118.592816,Los Angeles County,,03/14/2017,10/31/2018,Built Up
+69636,11634,Moorpark St,Los Angeles,CA,91604,"11634 Moorpark St, Studio City, CA 91604, USA",34.1501943,-118.3868027,Los Angeles County,,03/01/2017,10/31/2017,Comp Shingle
+69637,1321,Maple Ave,Los Angeles,CA,90015,"1321 Maple Ave, Los Angeles, CA 90015, USA",34.034163,-118.257961,Los Angeles County,,03/01/2017,06/30/2017,Built Up
+69638,1873,Westwood Blvd,Los Angeles,CA,90025,"1873 Westwood Blvd, Los Angeles, CA 90025, USA",34.0482398,-118.4359337,Los Angeles County,,03/02/2017,12/31/2017,Built Up
+69640,7360,Beverly Blvd,Los Angeles,CA,90036,"7360 Beverly Blvd, Los Angeles, CA 90036, USA",34.0759024,-118.3503522,Los Angeles County,,03/06/2017,10/31/2017,Built Up
+69641,7560,Melrose Ave,Los Angeles,CA,90046,"7560 Melrose Ave, Los Angeles, CA 90046, USA",34.083404,-118.35472,Los Angeles County,,03/09/2017,12/31/2017,Built Up
+69642,1837,S Flower St,Los Angeles,CA,90015,"1837 S Flower St, Los Angeles, CA 90015, USA",34.0344337,-118.270706,Los Angeles County,,03/10/2017,03/31/2018,Class A or B
+69635,9007,Lankershim Blvd,Los Angeles,CA,91352,"9007 Lankershim Blvd, Sun Valley, CA 91352, USA",34.2332629,-118.3881489,Los Angeles County,,03/10/2017,04/30/2017,Built Up
+69645,12765,Van Nuys Blvd,Los Angeles,CA,91331,"12765 Van Nuys Blvd, Pacoima, CA 91331, USA",34.2754089,-118.4123853,Los Angeles County,,03/15/2017,02/28/2018,Built Up
+69646,1050,N Cahuenga Blvd,Los Angeles,CA,90038,"1050 N Cahuenga Blvd, Los Angeles, CA 90038, USA",34.0900153,-118.3285815,Los Angeles County,,03/19/2017,03/31/2018,Built Up
+69647,9705,Holmes Ave,Los Angeles,CA,90002,"9705 Holmes Ave, Los Angeles, CA 90002, USA",33.9479556,-118.2410128,Los Angeles County,,03/20/2017,10/31/2017,Comp Shingle
+69648,1954,Hillhurst Ave,Los Angeles,CA,90027,"1954 Hillhurst Ave, Los Angeles, CA 90027, USA",34.1070084,-118.287202,Los Angeles County,,03/25/2017,04/30/2017,Built Up
+69649,5801,S Vermont Ave,Los Angeles,CA,90037,"5801 S Vermont Ave, Los Angeles, CA 90037, USA",33.9894636,-118.291794,Los Angeles County,,03/27/2017,06/30/2018,Built Up
+69650,4196,Marlton Ave,Los Angeles,CA,90008,"4196 Marlton Ave, Los Angeles, CA 90008, USA",34.008624,-118.3423139,Los Angeles County,,03/28/2017,06/30/2018,Built Up
+69651,4550,Van Nuys Blvd,Los Angeles,CA,91403,"4550 Van Nuys Blvd, Sherman Oaks, CA 91403, USA",34.15475,-118.4476698,Los Angeles County,,03/29/2017,05/31/2018,Partial
+69652,555,W 9th St,Los Angeles,CA,90731,"555 W 9th St, San Pedro, CA 90731, USA",33.7358478,-118.2893644,Los Angeles County,,03/30/2017,01/31/2018,Class A or B
+69653,16659,Arminta St,Los Angeles,CA,91406,"16659 Arminta St, Van Nuys, CA 91406, USA",34.2149928,-118.4965312,Los Angeles County,,04/03/2017,06/30/2017,Built Up
+69654,9333,Oso Ave,Los Angeles,CA,91311,"9333 Oso Ave, Chatsworth, CA 91311, USA",34.2402933,-118.5760594,Los Angeles County,,04/10/2017,03/31/2017,Built Up
+69655,726,Cole Ave,Los Angeles,CA,90038,"726 Cole Ave, Los Angeles, CA 90038, USA",34.0843169,-118.3295975,Los Angeles County,,04/10/2017,08/31/2018,Built Up
+69656,2541,S Barrington Ave,Los Angeles,CA,90064,"2541 S Barrington Ave, Los Angeles, CA 90064, USA",34.0277156,-118.4430443,Los Angeles County,,04/13/2017,09/30/2018,Built Up
+69657,3857,S Western Ave,Los Angeles,CA,90062,"3857 S Western Ave, Los Angeles, CA 90062, USA",34.0157001,-118.3091434,Los Angeles County,,04/18/2017,05/31/2018,Built Up
+69658,444,S Flower St,Los Angeles,CA,90071,"Citigroup center, 444 S Flower St, Los Angeles, CA 90071, USA",34.051561,-118.2549921,Los Angeles County,,04/21/2017,11/30/2017,Class A or B
+69659,5119,Hollywood Blvd,Los Angeles,CA,90027,"5119 Hollywood Blvd, Los Angeles, CA 90027, USA",34.101878,-118.3013161,Los Angeles County,,04/24/2017,01/31/2018,Built Up
+69660,16540,Arminta St,Los Angeles,CA,91406,"16540 Arminta St, Van Nuys, CA 91406, USA",34.214535,-118.493776,Los Angeles County,,04/26/2017,06/30/2017,Built Up
+69661,12411,W Olympic Blvd,Los Angeles,CA,90064,"12411 W Olympic Blvd, Los Angeles, CA 90064, USA",34.0316378,-118.4578052,Los Angeles County,,04/26/2017,12/31/2017,"Reroof (e) warehouse building. No plans, express permit."
+69662,10542,Burbank Blvd,Los Angeles,CA,91601,"10542 Burbank Blvd, North Hollywood, CA 91601, USA",34.1719693,-118.3608731,Los Angeles County,,04/27/2017,06/30/2018,Built Up
+69663,8162,Melrose Ave,Los Angeles,CA,90046,"8162 Melrose Ave, Los Angeles, CA 90046, USA",34.0834621,-118.3674136,Los Angeles County,,05/01/2017,07/31/2017,Built Up
+69664,1804,Lincoln Blvd,Los Angeles,CA,90291,"1804 Lincoln Blvd, Venice, CA 90291, USA",33.996482,-118.457212,Los Angeles County,,05/04/2017,06/30/2017,Built Up
+69670,11101,S Main St,Los Angeles,CA,90061,"11101 S Main St, Los Angeles, CA 90061, USA",33.9345535,-118.2741244,Los Angeles County,,05/23/2017,01/31/2019,Built Up
+69676,10158,Johanna Ave,Los Angeles,CA,91040,"10158 Johanna Ave, Sunland-Tujunga, CA 91040, USA",34.255065,-118.3440946,Los Angeles County,,05/31/2017,04/30/2018,Comp Shingle
+69666,959,Cole Ave,Los Angeles,CA,90038,"959 Cole Ave, Los Angeles, CA 90038, USA",34.0887948,-118.3301133,Los Angeles County,,05/10/2017,05/31/2017,Built Up
+69667,4813,W Washington Blvd,Los Angeles,CA,90016,"4813 W Washington Blvd, Los Angeles, CA 90016, USA",34.0399774,-118.3438539,Los Angeles County,,05/15/2017,10/31/2017,Built Up
+69668,16604,Arminta St,Los Angeles,CA,91406,"16604 Arminta St, Van Nuys, CA 91406, USA",34.214534,-118.494775,Los Angeles County,,05/15/2017,06/30/2017,Built Up
+69671,18706,Hatteras St,Los Angeles,CA,91356,"18706 Hatteras St, Tarzana, CA 91356, USA",34.1764809,-118.5410068,Los Angeles County,,05/24/2017,04/30/2018,Built Up
+69672,8350,Van Nuys Blvd,Los Angeles,CA,91402,"8350 Van Nuys Blvd, Panorama City, CA 91402, USA",34.223526,-118.447026,Los Angeles County,,05/25/2017,05/31/2018,Built Up
+69673,2007,W Gage Ave,Los Angeles,CA,90047,"2007 W Gage Ave, Los Angeles, CA 90047, USA",33.9820529,-118.3138102,Los Angeles County,,05/25/2017,07/31/2017,Built Up
+69674,21857,Ventura Blvd,Los Angeles,CA,91364,"21857 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1686862,-118.6035505,Los Angeles County,,05/25/2017,12/31/2017,Built Up
+69677,3875,Crenshaw Blvd,Los Angeles,CA,90008,"3875 Crenshaw Blvd, Los Angeles, CA 90008, USA",34.0151221,-118.3356933,Los Angeles County,,06/02/2017,05/31/2018,Built Up
+69678,2738,Hyperion Ave,Los Angeles,CA,90039,"2738 Hyperion Ave, Los Angeles, CA 90039, USA",34.1076393,-118.2715739,Los Angeles County,,06/02/2017,06/30/2017,Built Up
+69679,12800,Riverside Dr,Los Angeles,CA,91607,"12800 Riverside Dr, North Hollywood, CA 91607, USA",34.1573662,-118.411792,Los Angeles County,,06/06/2017,10/31/2017,Built Up
+69680,5248,W Adams Blvd,Los Angeles,CA,90016,"5248 W Adams Blvd, Los Angeles, CA 90016, USA",34.0323835,-118.3572778,Los Angeles County,,06/06/2017,06/30/2017,Built Up
+69681,10320,Reseda Blvd,Los Angeles,CA,91326,"10320 Reseda Blvd, Porter Ranch, CA 91326, USA",34.2580172,-118.5356184,Los Angeles County,,06/08/2017,07/31/2017,Built Up
+69682,10122,Compton Ave,Los Angeles,CA,90002,"10122 Compton Ave, Los Angeles, CA 90002, USA",33.944378,-118.2459697,Los Angeles County,,06/09/2017,10/31/2017,Class A or B
+69683,16615,Arminta St,Los Angeles,CA,91406,"16615 Arminta St, Van Nuys, CA 91406, USA",34.2151861,-118.494873,Los Angeles County,,06/14/2017,06/30/2017,Built Up
+69685,9315,Oso Ave,Los Angeles,CA,91311,"9315 Oso Ave, Chatsworth, CA 91311, USA",34.2396555,-118.5760594,Los Angeles County,,06/15/2017,03/31/2017,Built Up
+69686,10761,W Pico Blvd,Los Angeles,CA,90064,"10761 W Pico Blvd, Los Angeles, CA 90064, USA",34.0411322,-118.4269299,Los Angeles County,,06/19/2017,04/30/2017,Comp Shingle
+69687,9244,Zelzah Ave,Los Angeles,CA,91325,"9244 Zelzah Ave, Northridge, CA 91325, USA",34.2386635,-118.5228649,Los Angeles County,,06/26/2017,01/31/2018,REROOF (E) CHURCH /SUNDAY SCHOOL PER ENGINEER DETAILS
+69675,10532,Burbank Blvd,Los Angeles,CA,91601,"10532 Burbank Blvd, North Hollywood, CA 91601, USA",34.1719079,-118.3606156,Los Angeles County,,05/10/2019,03/31/2021,Built Up
+69693,9167,Reseda Blvd,Los Angeles,CA,91324,"9167 Reseda Blvd, Northridge, CA 91324, USA",34.2366811,-118.5364389,Los Angeles County,,07/06/2017,12/31/2017,Built Up
+69696,6052,Normandie Ave,Los Angeles,CA,90044,"6052 Normandie Ave, Los Angeles, CA 90044, USA",33.9848672,-118.3000059,Los Angeles County,,07/14/2017,07/31/2017,Built Up
+69689,7500,De Soto Ave,Los Angeles,CA,91306,"7500 De Soto Ave, Canoga Park, CA 91306, USA",34.2070376,-118.5880139,Los Angeles County,,07/03/2017,04/30/2018,Comp Shingle
+69688,3911,S Figueroa St,Los Angeles,CA,90037,"3911 S Figueroa St, Los Angeles, CA 90037, USA",34.0138594,-118.2828112,Los Angeles County,,06/28/2017,05/31/2019,REROOF USING EXISTING SHEATHING  # 12 SQS/ # 1STORY AT POLICE  STATION
+69694,4865,W Washington Blvd,Los Angeles,CA,90016,"4865 W Washington Blvd, Los Angeles, CA 90016, USA",34.040307,-118.3457409,Los Angeles County,,07/11/2017,06/30/2017,Built Up
+69697,624,S Grand Ave,Los Angeles,CA,90017,"One Wilshire Building, 624 S Grand Ave, Los Angeles, CA 90017, USA",34.0479477,-118.2553576,Los Angeles County,,07/18/2017,03/31/2018,Built Up
+69698,973,E 31st St,Los Angeles,CA,90011,"973 E 31st St, Los Angeles, CA 90011, USA",34.0153434,-118.2577157,Los Angeles County,,07/20/2017,03/31/2018,Built Up
+69699,2218,S Barry Ave,Los Angeles,CA,90064,"2218 S Barry Ave, Los Angeles, CA 90064, USA",34.0296812,-118.442861,Los Angeles County,,07/26/2017,10/31/2018,Built Up
+69700,1536,W Slauson Ave,Los Angeles,CA,90047,"1536 W Slauson Ave, Los Angeles, CA 90047, USA",33.9888762,-118.3038255,Los Angeles County,,07/26/2017,12/31/2017,Built Up
+69701,16200,Ventura Blvd,Los Angeles,CA,91436,"16200 Ventura Blvd, Encino, CA 91436, USA",34.1562537,-118.4855818,Los Angeles County,,08/08/2017,04/30/2018,Built Up
+69702,130,S Alvarado St,Los Angeles,CA,90057,"130 S Alvarado St, Los Angeles, CA 90057, USA",34.0656215,-118.2706603,Los Angeles County,,08/08/2017,01/31/2019,Class A or B
+69703,725,S Alvarado St,Los Angeles,CA,90057,"725 S Alvarado St, Los Angeles, CA 90057, USA",34.055905,-118.277598,Los Angeles County,,08/10/2017,05/31/2017,Built Up
+69704,5110,Sunset Blvd,Los Angeles,CA,90027,"5110 Sunset Blvd, Los Angeles, CA 90027, USA",34.0977824,-118.3009421,Los Angeles County,,08/10/2017,05/31/2017,Built Up
+69705,15945,Ventura Blvd,Los Angeles,CA,91436,"15945 Ventura Blvd, Encino, CA 91436, USA",34.1563676,-118.4806453,Los Angeles County,,08/10/2017,04/30/2017,Built Up
+69706,1330,E Mauretania St,Los Angeles,CA,90744,"1330 E Mauretania St, Wilmington, CA 90744, USA",33.7899834,-118.246929,Los Angeles County,,08/11/2017,08/31/2018,Built Up
+69695,742,S Alameda St,Los Angeles,CA,90021,"742 S Alameda St, Los Angeles, CA 90021, USA",34.0327569,-118.235403,Los Angeles County,,06/25/2018,09/30/2017,Built Up
+69707,12755,Van Nuys Blvd,Los Angeles,CA,91331,"12755 Van Nuys Blvd, Pacoima, CA 91331, USA",34.2757063,-118.4118376,Los Angeles County,,08/14/2017,02/28/2018,Built Up
+69708,15216,Vanowen St,Los Angeles,CA,91405,"15216 Vanowen St, Van Nuys, CA 91405, USA",34.1936685,-118.4642695,Los Angeles County,,08/16/2017,05/31/2017,Built Up
+69709,11565,Laurel Canyon Blvd,San Fernando,CA,91340,"11565 Laurel Canyon Blvd, San Fernando, CA 91340, USA",34.2799836,-118.4551583,Los Angeles County,,08/16/2017,11/30/2018,Built Up
+69710,10000,Commerce Ave,Los Angeles,CA,91042,"10000 Commerce Ave, Tujunga, CA 91042, USA",34.250534,-118.2884281,Los Angeles County,,08/20/2017,04/30/2018,Built Up
+69711,2003,W Jefferson Blvd,Los Angeles,CA,90018,"2003 W Jefferson Blvd, Los Angeles, CA 90018, USA",34.025771,-118.3153349,Los Angeles County,,08/25/2017,03/31/2018,Class A or B
+69712,6756,Tampa Ave,Los Angeles,CA,91335,"6756 Tampa Ave, Reseda, CA 91335, USA",34.1933458,-118.5532449,Los Angeles County,,08/28/2017,02/28/2017,Built Up
+69713,14226,Ventura Blvd,Los Angeles,CA,91423,"14226 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1497451,-118.4429928,Los Angeles County,,08/28/2017,05/31/2017,Built Up
+69714,17614,W Ventura Blvd,Los Angeles,CA,91356,"17614 W Ventura Blvd, Tarzana, CA 91356, USA",34.165232,-118.5272559,Los Angeles County,,08/29/2017,06/30/2017,Built Up
+69715,439,N Fairfax Ave,Los Angeles,CA,90036,"439 N Fairfax Ave, Los Angeles, CA 90036, USA",34.0792958,-118.3614698,Los Angeles County,,09/11/2017,10/31/2017,Built Up
+69716,700,World Way,Los Angeles,CA,90045,"700 World Way, Los Angeles, CA 90045, USA",33.9426712,-118.3997176,Los Angeles County,,09/21/2017,11/30/2018,Built Up
+69717,830,E Washington Blvd,Los Angeles,CA,90011,"830 E Washington Blvd, Los Angeles, CA 90011, USA",34.025834,-118.2541818,Los Angeles County,,09/22/2017,01/31/2018,Built Up
+69718,8656,Reseda Blvd,Los Angeles,CA,91324,"8656 Reseda Blvd, Northridge, CA 91324, USA",34.2277912,-118.535448,Los Angeles County,,09/24/2017,08/31/2018,Built Up
+69719,8831,Venice Blvd,Los Angeles,CA,90034,"8831 Venice Blvd, Los Angeles, CA 90034, USA",34.0308148,-118.3863231,Los Angeles County,,09/27/2017,01/31/2018,Built Up
+69720,8338,W 3rd St,Los Angeles,CA,90048,"8338 W 3rd St, Los Angeles, CA 90048, USA",34.0726218,-118.3714445,Los Angeles County,,10/05/2017,07/31/2017,Built Up
+69721,6115,Fallbrook Ave,Los Angeles,CA,91367,"6115 Fallbrook Ave, Woodland Hills, CA 91367, USA",34.1813646,-118.6238255,Los Angeles County,,10/06/2017,10/31/2018,Built Up
+69722,5458,Alhambra Ave,Los Angeles,CA,90032,"5458 Alhambra Ave, Los Angeles, CA 90032, USA",34.0780839,-118.1663688,Los Angeles County,,10/10/2017,03/31/2018,Built Up
+69723,12448,Braddock Dr,Los Angeles,CA,90066,"12448 Braddock Dr, Los Angeles, CA 90066, USA",33.9885299,-118.4199109,Los Angeles County,,10/11/2017,12/31/2018,Built Up
+69724,1722,Westwood Blvd,Los Angeles,CA,90024,"1722 Westwood Blvd, Los Angeles, CA 90024, USA",34.0514734,-118.4381012,Los Angeles County,,10/12/2017,01/31/2018,Built Up
+69725,8660,Reseda Blvd,Los Angeles,CA,91324,"8660 Reseda Blvd, Northridge, CA 91324, USA",34.2280552,-118.5358,Los Angeles County,,10/15/2017,08/31/2018,Built Up
+69726,7625,Crenshaw Blvd,Los Angeles,CA,90043,"7625 Crenshaw Blvd, Los Angeles, CA 90043, USA",33.970131,-118.331189,Los Angeles County,,10/23/2017,10/31/2018,Built Up
+69727,3300,Overland Ave,Los Angeles,CA,90034,"3300 Overland Ave, Los Angeles, CA 90034, USA",34.027476,-118.4132753,Los Angeles County,,10/26/2017,07/31/2018,Built Up
+69728,4950,Santa Monica Blvd,Los Angeles,CA,90029,"4950 Santa Monica Blvd, Los Angeles, CA 90029, USA",34.0905767,-118.2971904,Los Angeles County,,10/27/2017,10/31/2017,Comp Shingle
+69729,326,W 58th St,Los Angeles,CA,90037,"326 W 58th St, Los Angeles, CA 90037, USA",33.9895998,-118.2795033,Los Angeles County,,11/02/2017,02/28/2018,Built Up
+69730,5801,S Broadway,Los Angeles,CA,90003,"5801 S Broadway, Los Angeles, CA 90003, USA",33.9897503,-118.2783169,Los Angeles County,,11/02/2017,02/28/2018,Built Up
+69731,2014,W 62nd St,Los Angeles,CA,90047,"2014 W 62nd St, Los Angeles, CA 90047, USA",33.9831421,-118.3142567,Los Angeles County,,11/02/2017,02/28/2018,Built Up
+69732,1153,Cypress Ave,Los Angeles,CA,90065,"1153 Cypress Ave, Los Angeles, CA 90065, USA",34.0949185,-118.2271186,Los Angeles County,,11/03/2017,04/30/2019,Built Up
+69733,4900,Lankershim Blvd,Los Angeles,CA,91601,"4900 Lankershim Blvd, North Hollywood, CA 91601, USA",34.1602864,-118.3715329,Los Angeles County,,11/03/2017,03/31/2018,Built Up
+69734,8650,Reseda Blvd,Los Angeles,CA,91324,"8650 Reseda Blvd, Northridge, CA 91324, USA",34.227698,-118.535635,Los Angeles County,,11/05/2017,08/31/2018,Built Up
+69735,601,E 23rd St,Los Angeles,CA,90011,"601 E 23rd St, Los Angeles, CA 90011, USA",34.0251574,-118.2614816,Los Angeles County,,11/06/2017,11/30/2018,Comp Shingle
+69736,449,W Imperial Hwy,Los Angeles,CA,90061,"449 W Imperial Hwy, Los Angeles, CA 90061, USA",33.9312779,-118.282317,Los Angeles County,,11/07/2017,10/31/2018,Built Up
+69737,10925,Kinross Ave,Los Angeles,CA,90024,"10925 Kinross Ave, Los Angeles, CA 90024, USA",34.0605825,-118.4464746,Los Angeles County,,11/08/2017,11/30/2015,Built Up
+69738,10955,Kinross Ave,Los Angeles,CA,90024,"10955 Kinross Ave, Los Angeles, CA 90024, USA",34.0601656,-118.4469032,Los Angeles County,,11/08/2017,11/30/2015,Built Up
+69739,7326,S Broadway,Los Angeles,CA,90003,"7326 S Broadway, Los Angeles, CA 90003, USA",33.9728723,-118.2780143,Los Angeles County,,11/13/2017,05/31/2017,Built Up
+69740,1390,186th St,Gardena,CA,90248,"1390 186th St, Gardena, CA 90248, USA",33.8617891,-118.2989326,Los Angeles County,,11/22/2017,03/31/2018,Built Up
+69741,13701,Ventura Blvd,Los Angeles,CA,91423,"13701 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1482926,-118.4314388,Los Angeles County,,11/27/2017,12/31/2018,Built Up
+69742,1123,W 85th St,Los Angeles,CA,90044,"1123 W 85th St, Los Angeles, CA 90044, USA",33.961207,-118.294858,Los Angeles County,,11/28/2017,11/30/2018,Comp Shingle
+69743,20455,Devonshire St,Los Angeles,CA,91311,"20455 Devonshire St, Chatsworth, CA 91311, USA",34.2577155,-118.5792738,Los Angeles County,,11/30/2017,10/31/2018,Built Up
+69744,2100,Echo Park Ave,Los Angeles,CA,90026,"2100 Echo Park Ave, Los Angeles, CA 90026, USA",34.0895809,-118.2497614,Los Angeles County,,12/01/2017,04/30/2017,Comp Shingle
+69745,13039,Glenoaks Blvd,Los Angeles,CA,91342,"13039 Glenoaks Blvd, Sylmar, CA 91342, USA",34.3073195,-118.4496954,Los Angeles County,,12/04/2017,02/28/2018,Built Up
+69746,911,Broxton Ave,Los Angeles,CA,90024,"Broxton Plaza, 911 Broxton Ave, Los Angeles, CA 90024, USA",34.0634121,-118.4473088,Los Angeles County,,12/06/2017,04/30/2018,Comp Shingle
+69747,1301,S Westwood Blvd,Los Angeles,CA,90024,"1301 S Westwood Blvd, Los Angeles, CA 90024, USA",34.0596208,-118.4447408,Los Angeles County,,12/06/2017,03/31/2018,Built Up
+69748,11176,Bradley Ave,Los Angeles,CA,91331,"11176 Bradley Ave, Pacoima, CA 91331, USA",34.273634,-118.422623,Los Angeles County,,12/07/2017,07/31/2018,Built Up
+69749,404,Lincoln Blvd,Los Angeles,CA,90291,"404 Lincoln Blvd, Venice, CA 90291, USA",34.0008425,-118.4663427,Los Angeles County,,12/11/2017,12/31/2017,Built Up
+69750,3966,W 6th St,Los Angeles,CA,90020,"3966 W 6th St, Los Angeles, CA 90020, USA",34.0633512,-118.3097842,Los Angeles County,,12/12/2017,08/31/2018,Built Up
+69760,5410,Washington Blvd,Los Angeles,CA,90016,"5410 Washington Blvd, Los Angeles, CA 90016, USA",34.038578,-118.360744,Los Angeles County,,01/30/2018,03/31/2018,Built Up
+69751,5317,Topanga Canyon Blvd,Los Angeles,CA,91364,"5317 Topanga Canyon Blvd, Woodland Hills, CA 91364, USA",34.1664888,-118.6062914,Los Angeles County,,01/03/2018,05/31/2017,Built Up
+69752,1841,N Western Ave,Los Angeles,CA,90027,"1841 N Western Ave, Los Angeles, CA 90027, USA",34.1043441,-118.3097539,Los Angeles County,,01/04/2018,11/30/2018,Built Up
+69753,1014,Venice Blvd,Los Angeles,CA,90015,"1014 Venice Blvd, Los Angeles, CA 90015, USA",34.0407499,-118.2780372,Los Angeles County,,01/09/2018,03/31/2017,Built Up
+69754,4907,W Washington Blvd,Los Angeles,CA,90016,"4907 W Washington Blvd, Los Angeles, CA 90016, USA",34.0404897,-118.3465811,Los Angeles County,,01/10/2018,06/30/2017,Built Up
+69755,7144,Reseda Blvd,Los Angeles,CA,91335,"7144 Reseda Blvd, Reseda, CA 91335, USA",34.2006745,-118.5357945,Los Angeles County,,01/10/2018,04/30/2018,Built Up
+69756,7156,Valmont St,Los Angeles,CA,91042,"7156 Valmont St, Tujunga, CA 91042, USA",34.2521316,-118.2877887,Los Angeles County,,01/14/2018,01/31/2018,Comp Shingle
+69763,464,S Main St,Los Angeles,CA,90013,"464 S Main St, Los Angeles, CA 90013, USA",34.0467969,-118.2484272,Los Angeles County,,02/13/2018,07/31/2017,Built Up
+69758,300,N Martel Ave,Los Angeles,CA,90036,"300 N Martel Ave, Los Angeles, CA 90036, USA",34.0765099,-118.3510075,Los Angeles County,,01/15/2018,01/31/2018,Built Up
+69759,1224,S Soto St,Los Angeles,CA,90023,"1224 S Soto St, Los Angeles, CA 90023, USA",34.0272471,-118.2192878,Los Angeles County,,01/25/2018,09/30/2018,Class A or B
+69761,9750,Topanga Canyon Blvd,Los Angeles,CA,91311,"9750 Topanga Canyon Blvd, Chatsworth, CA 91311, USA",34.2473231,-118.6063021,Los Angeles County,,01/30/2018,04/30/2018,Built Up
+69757,17801,W Ventura Blvd,Los Angeles,CA,91356,"17801 W Ventura Blvd, Tarzana, CA 91356, USA",34.165692,-118.5286845,Los Angeles County,,02/07/2018,01/31/2018,Built Up
+69762,2444,W Washington Blvd,Los Angeles,CA,90018,"2444 W Washington Blvd, Los Angeles, CA 90018, USA",34.0395874,-118.3161038,Los Angeles County,,02/12/2018,02/28/2018,Comp Shingle
+69764,4375,Glencoe Ave,Marina Del Rey,CA,90292,"4375 Glencoe Ave, Marina Del Rey, CA 90292, USA",33.9854939,-118.4381258,Los Angeles County,,02/20/2018,06/30/2019,Built Up
+69765,13155,Mindanao Way,Marina Del Rey,CA,90292,"13155 Mindanao Way, Marina Del Rey, CA 90292, USA",33.9850872,-118.4380009,Los Angeles County,,02/20/2018,06/30/2019,Built Up
+69766,3637,N Cahuenga Blvd,Los Angeles,CA,90068,"3637 N Cahuenga Blvd, Los Angeles, CA 90068, USA",34.1114701,-118.3346143,Los Angeles County,,02/27/2018,04/30/2018,Built Up
+69767,4801,W Exposition Blvd,Los Angeles,CA,90016,"4801 W Exposition Blvd, Los Angeles, CA 90016, USA",34.0247524,-118.3490256,Los Angeles County,,03/05/2018,10/31/2017,Built Up
+69769,16940,Devonshire St,Los Angeles,CA,91344,"16940 Devonshire St, Granada Hills, CA 91344, USA",34.256727,-118.501532,Los Angeles County,,03/09/2018,02/28/2019,Class A or B
+69770,7330,N Figueroa St,Los Angeles,CA,90041,"7330 N Figueroa St, Los Angeles, CA 90041, USA",34.1368961,-118.1877839,Los Angeles County,,03/14/2018,05/31/2018,Built Up
+69771,1925,Wilshire Blvd,Los Angeles,CA,90057,"1925 Wilshire Blvd, Los Angeles, CA 90057, USA",34.057501,-118.2741775,Los Angeles County,,03/15/2018,01/31/2019,Built Up
+69772,846,Watson Ave,Los Angeles,CA,90744,"846 Watson Ave, Wilmington, CA 90744, USA",33.7821084,-118.2470432,Los Angeles County,,03/22/2018,07/31/2017,Built Up
+69773,7606,Fallbrook Ave,Los Angeles,CA,91304,"7606 Fallbrook Ave, Canoga Park, CA 91304, USA",34.2087806,-118.6232417,Los Angeles County,,03/23/2018,06/30/2018,Built Up
+69774,1439,W Colorado Blvd,Pasadena,CA,91105,"1439 W Colorado Blvd, Pasadena, CA 91105, USA",34.1409156,-118.1789981,Los Angeles County,,03/23/2018,07/31/2016,Built Up
+69775,7255,Radford Ave,Los Angeles,CA,91605,"7255 Radford Ave, North Hollywood, CA 91605, USA",34.2028257,-118.3923483,Los Angeles County,,03/29/2018,12/31/2017,Built Up
+69776,1311,N Harvard Blvd,Los Angeles,CA,90027,"1311 N Harvard Blvd, Los Angeles, CA 90027, USA",34.0953751,-118.3045728,Los Angeles County,,03/30/2018,10/31/2019,Built Up
+69777,5161,Van Nuys Blvd,Los Angeles,CA,91403,"5161 Van Nuys Blvd, Sherman Oaks, CA 91403, USA",34.164512,-118.4491896,Los Angeles County,,03/30/2018,05/31/2017,Built Up
+69778,7222,Van Nuys Blvd,Los Angeles,CA,91405,"7222 Van Nuys Blvd, Van Nuys, CA 91405, USA",34.202026,-118.4483209,Los Angeles County,,04/03/2018,12/31/2017,Built Up
+69779,15176,Raymer St,Los Angeles,CA,91405,"15176 Raymer St, Van Nuys, CA 91405, USA",34.2138724,-118.4639578,Los Angeles County,,04/05/2018,08/31/2018,Class A or B
+69780,14429,Chase St,Los Angeles,CA,91402,"14429 Chase St, Panorama City, CA 91402, USA",34.2250947,-118.4478771,Los Angeles County,,04/06/2018,05/31/2017,Built Up
+69781,16108,Covello St,Los Angeles,CA,91406,"16108 Covello St, Van Nuys, CA 91406, USA",34.2072493,-118.4841044,Los Angeles County,,04/06/2018,03/31/2019,Comp Shingle
+69782,1801,E 50th St,Los Angeles,CA,90058,"1801 E 50th St, Los Angeles, CA 90058, USA",33.9984159,-118.2418808,Los Angeles County,,04/07/2018,03/31/2018,Built Up
+69783,1388,Westwood Blvd,Los Angeles,CA,90024,"1388 Westwood Blvd, Los Angeles, CA 90024, USA",34.0555937,-118.4414324,Los Angeles County,,04/12/2018,05/31/2018,Class A or B
+69784,5673,N Whitnall Hwy,Los Angeles,CA,91601,"5673 N Whitnall Hwy, North Hollywood, CA 91601, USA",34.1754392,-118.3616047,Los Angeles County,,04/12/2018,10/31/2018,Built Up
+69785,12122,Vanowen St,Los Angeles,CA,91605,"12122 Vanowen St, North Hollywood, CA 91605, USA",34.1937881,-118.3973074,Los Angeles County,,04/16/2018,11/30/2016,Built Up
+69786,6060,Hollywood Blvd,Los Angeles,CA,90028,"6060 Hollywood Blvd, Los Angeles, CA 90028, USA",34.1012273,-118.3220337,Los Angeles County,,04/17/2018,08/31/2018,Built Up
+69787,22915,Victory Blvd,Los Angeles,CA,91307,"22915 Victory Blvd, West Hills, CA 91307, USA",34.1870249,-118.6263879,Los Angeles County,,04/18/2018,02/28/2019,REROOF 533 SQUARES WITH CLAS 'A' OR 'B' MATERIAL WEIGHING LESS THAN 6
+69788,1845,N San Fernando Rd,Los Angeles,CA,90065,"1845 N San Fernando Rd, Los Angeles, CA 90065, USA",34.1004416,-118.2350316,Los Angeles County,,04/24/2018,07/31/2017,Built Up
+69665,1,Loyola Marymount University Dr,Los Angeles,CA,90045,"1 Loyola Marymount University Dr, Los Angeles, CA 90045, USA",33.9707666,-118.4192316,Los Angeles County,,04/26/2018,10/31/2017,Built Up
+69789,7415,Melrose Ave,Los Angeles,CA,90046,"7415 Melrose Ave, Los Angeles, CA 90046, USA",34.0837768,-118.3516795,Los Angeles County,,05/07/2018,06/30/2017,Built Up
+69790,3317,W Exposition Pl,Los Angeles,CA,90018,"3317 W Exposition Pl, Los Angeles, CA 90018, USA",34.0216954,-118.3323534,Los Angeles County,,05/07/2018,11/30/2017,Built Up
+69791,9111,Corbin Ave,Los Angeles,CA,91324,"9111 Corbin Ave, Northridge, CA 91324, USA",34.2357998,-118.5627909,Los Angeles County,,05/07/2018,12/31/2017,Built Up
+69792,11439,Encino Ave,Los Angeles,CA,91344,"11439 Encino Ave, Granada Hills, CA 91344, USA",34.2785398,-118.5156451,Los Angeles County,,05/09/2018,06/30/2018,Comp Shingle
+69793,3430,Sunset Blvd,Los Angeles,CA,90026,"3430 Sunset Blvd, Los Angeles, CA 90026, USA",34.0881246,-118.2764385,Los Angeles County,,05/16/2018,04/30/2018,Comp Shingle
+69794,25401,S Western Ave,Lomita,CA,90717,"25401 S Western Ave, Lomita, CA 90717, USA",33.7935237,-118.3079751,Los Angeles County,,05/23/2018,07/31/2017,Comp Shingle
+69795,7017,Canoga Ave,Los Angeles,CA,91303,"7017 Canoga Ave, Canoga Park, CA 91303, USA",34.1979242,-118.598118,Los Angeles County,,05/23/2018,10/31/2019,Built Up
+69796,11950,Foothill Blvd,Los Angeles,CA,91342,"11950 Foothill Blvd, Sylmar, CA 91342, USA",34.2754455,-118.3974145,Los Angeles County,,05/31/2018,03/31/2018,Built Up
+69797,17250,W Saticoy St,Los Angeles,CA,91406,"17250 W Saticoy St, Van Nuys, CA 91406, USA",34.2084445,-118.4743654,Los Angeles County,,06/05/2018,02/28/2019,Class A or B
+69798,14440,Burbank Blvd,Los Angeles,CA,91401,"14440 Burbank Blvd, Van Nuys, CA 91401, USA",34.1713748,-118.4470678,Los Angeles County,,06/07/2018,02/28/2019,Class A or B
+69799,1039,N Broadway,Los Angeles,CA,90012,"1039 N Broadway, Los Angeles, CA 90012, USA",34.0680555,-118.2351421,Los Angeles County,,06/07/2018,10/31/2017,Built Up
+69800,7930,Mason Ave,Los Angeles,CA,91306,"7930 Mason Ave, Canoga Park, CA 91306, USA",34.2146894,-118.5793908,Los Angeles County,,06/08/2018,06/30/2017,Built Up
+69801,1371,S Westwood Blvd,Los Angeles,CA,90024,"1371 S Westwood Blvd, Los Angeles, CA 90024, USA",34.0596208,-118.4447408,Los Angeles County,,06/14/2018,01/31/2018,Built Up
+69802,1157,N McCadden Pl,Los Angeles,CA,90038,"1157 N McCadden Pl, Los Angeles, CA 90038, USA",34.092423,-118.3376338,Los Angeles County,,06/15/2018,05/31/2018,Built Up
+69803,10957,S Central Ave,Los Angeles,CA,90059,"10957 S Central Ave, Los Angeles, CA 90059, USA",33.9355341,-118.2545353,Los Angeles County,,06/20/2018,09/30/2019,Reroof portion of (E) building. Disabled Access upgrades as shown on p
+69804,729,N La Cienega Blvd,Los Angeles,CA,90069,"729 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.0844472,-118.3767712,Los Angeles County,,06/21/2018,11/30/2018,Comp Shingle
+69805,1779,S Westwood Blvd,Los Angeles,CA,90024,"1779 S Westwood Blvd, Los Angeles, CA 90024, USA",34.0596208,-118.4447408,Los Angeles County,,06/28/2018,03/31/2018,Built Up
+69806,565,N Larchmont Blvd,Los Angeles,CA,90004,"565 N Larchmont Blvd, Los Angeles, CA 90004, USA",34.0806915,-118.3238668,Los Angeles County,,07/05/2018,10/31/2019,Built Up
+69807,18626,S Western Ave,Gardena,CA,90248,"18626 S Western Ave, Gardena, CA 90248, USA",33.8611016,-118.3074043,Los Angeles County,,07/05/2018,01/31/2018,Built Up
+69808,2005,Merton Ave,Los Angeles,CA,90041,"2005 Merton Ave, Los Angeles, CA 90041, USA",34.1383333,-118.2125025,Los Angeles County,,07/09/2018,06/30/2018,Built Up
+69809,3880,San Rafael Ave,Los Angeles,CA,90065,"3880 San Rafael Ave, Los Angeles, CA 90065, USA",34.1016204,-118.2159015,Los Angeles County,,07/10/2018,10/31/2018,REROOF (E) OFFICE BUILDING
+69810,15516,Nordhoff St,Los Angeles,CA,91343,"15516 Nordhoff St, North Hills, CA 91343, USA",34.2352153,-118.4706769,Los Angeles County,,07/16/2018,02/28/2018,Built Up
+69811,10834,Burbank Blvd,Los Angeles,CA,91601,"10834 Burbank Blvd, North Hollywood, CA 91601, USA",34.171818,-118.367021,Los Angeles County,,07/17/2018,08/31/2018,Built Up
+69812,1041,N Mansfield Ave,Los Angeles,CA,90038,"1041 N Mansfield Ave, Los Angeles, CA 90038, USA",34.0900548,-118.3406245,Los Angeles County,,07/19/2018,02/28/2018,Built Up
+69813,20515,Devonshire St,Los Angeles,CA,91311,"20515 Devonshire St, Chatsworth, CA 91311, USA",34.2575488,-118.580482,Los Angeles County,,07/19/2018,02/28/2019,Class A or B
+69814,932,W 85th St,Los Angeles,CA,90044,"932 W 85th St, Los Angeles, CA 90044, USA",33.9610205,-118.2905291,Los Angeles County,,07/20/2018,07/31/2018,Comp Shingle
+69815,7500,Valjean Ave,Los Angeles,CA,91406,"7500 Valjean Ave, Van Nuys, CA 91406, USA",34.2067841,-118.4857246,Los Angeles County,,07/23/2018,05/31/2018,Built Up
+69818,7955,Lindley Ave,Los Angeles,CA,91335,"7955 Lindley Ave, Reseda, CA 91335, USA",34.215422,-118.5279502,Los Angeles County,,07/31/2018,01/31/2018,Comp Shingle
+69816,5619,Lindley Ave,Los Angeles,CA,91356,"5619 Lindley Ave, Tarzana, CA 91356, USA",34.1730206,-118.5277448,Los Angeles County,,07/27/2018,05/31/2017,Built Up
+69819,14402,Ventura Blvd,Los Angeles,CA,91423,"14402 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.150334,-118.4461116,Los Angeles County,,08/03/2018,05/31/2017,Built Up
+69820,10921,W Chandler Blvd,Los Angeles,CA,91601,"10921 W Chandler Blvd, North Hollywood, CA 91601, USA",34.168871,-118.3687707,Los Angeles County,,08/15/2018,10/31/2019,Comp Shingle
+69821,3187,Glendale Blvd,Los Angeles,CA,90039,"3187 Glendale Blvd, Los Angeles, CA 90039, USA",34.1178283,-118.2614408,Los Angeles County,,08/15/2018,11/30/2018,Built Up
+69822,2216,Fargo St,Los Angeles,CA,90039,"2216 Fargo St, Los Angeles, CA 90039, USA",34.0919487,-118.2593547,Los Angeles County,,08/17/2018,10/31/2017,Comp Shingle
+69823,1040,N Las Palmas Ave,Los Angeles,CA,90038,"1040 N Las Palmas Ave, Los Angeles, CA 90038, USA",34.0897199,-118.3359829,Los Angeles County,,08/29/2018,04/30/2018,Built Up
+69824,1271,W Jefferson Blvd,Los Angeles,CA,90007,"1271 W Jefferson Blvd, Los Angeles, CA 90007, USA",34.0257204,-118.2943196,Los Angeles County,,09/04/2018,04/30/2018,Built Up
+69825,9667,Reseda Blvd,Los Angeles,CA,91324,"9667 Reseda Blvd, Northridge, CA 91324, USA",34.246144,-118.537016,Los Angeles County,,09/17/2018,12/31/2017,Built Up
+69817,7500,Chaminade Ave,Los Angeles,CA,91304,"7500 Chaminade Ave, Canoga Park, CA 91304, USA",34.206813,-118.63566,Los Angeles County,,06/21/2019,09/30/2020,Class A or B
+69826,1330,S Boyle Ave,Los Angeles,CA,90023,"1330 S Boyle Ave, Los Angeles, CA 90023, USA",34.0253126,-118.2205443,Los Angeles County,,09/27/2018,02/28/2019,Class A or B
+69827,5230,Van Nuys Blvd,Los Angeles,CA,91401,"5230 Van Nuys Blvd, Sherman Oaks, CA 91401, USA",34.165801,-118.4483219,Los Angeles County,,09/27/2018,06/30/2017,Built Up
+69828,1707,Sunset Blvd,Los Angeles,CA,90026,"1707 Sunset Blvd, Los Angeles, CA 90026, USA",34.0775257,-118.2585909,Los Angeles County,,10/02/2018,03/31/2020,Class A or B
+69829,7325,Reseda Blvd,Los Angeles,CA,91335,"7325 Reseda Blvd, Reseda, CA 91335, USA",34.2037529,-118.5363191,Los Angeles County,,10/04/2018,07/31/2017,Built Up
+69830,8829,National Blvd,Culver City,CA,90232,"8829 National Blvd, Culver City, CA 90232, USA",34.0293824,-118.3866757,Los Angeles County,,10/08/2018,08/31/2020,Built Up
+69831,1941,W Florence Ave,Los Angeles,CA,90047,"1941 W Florence Ave, Los Angeles, CA 90047, USA",33.9748469,-118.3128374,Los Angeles County,,10/09/2018,09/30/2020,Comp Shingle
+69832,6123,Vineland Ave,Los Angeles,CA,91606,"6123 Vineland Ave, North Hollywood, CA 91606, USA",34.1819405,-118.3706427,Los Angeles County,,10/12/2018,06/30/2020,Built Up
+69833,12410,Burbank Blvd,Los Angeles,CA,91607,"12410 Burbank Blvd, Valley Village, CA 91607, USA",34.1717662,-118.4037592,Los Angeles County,,10/16/2018,02/28/2019,Built Up
+69834,14958,Ventura Blvd,Los Angeles,CA,91403,"14958 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.1523526,-118.4593418,Los Angeles County,,10/24/2018,10/31/2019,Built Up
+69836,1605,S Hoover St,Los Angeles,CA,90006,"1605 S Hoover St, Los Angeles, CA 90006, USA",34.0434565,-118.2845915,Los Angeles County,,10/29/2018,05/31/2017,Built Up
+69837,9420,Reseda Blvd,Los Angeles,CA,91324,"9420 Reseda Blvd, Northridge, CA 91324, USA",34.2417644,-118.5354493,Los Angeles County,,10/30/2018,12/31/2017,Built Up
+69838,9525,N Vassar Ave,Los Angeles,CA,91311,"9525 N Vassar Ave, Chatsworth, CA 91311, USA",34.2599548,-118.604874,Los Angeles County,,10/30/2018,04/30/2018,Built Up
+69839,9135,Reseda Blvd,Los Angeles,CA,91324,"9135 Reseda Blvd, Northridge, CA 91324, USA",34.2365095,-118.5375707,Los Angeles County,,10/30/2018,12/31/2017,Built Up
+69840,14655,W Sherman Way,Los Angeles,CA,91405,"14655 W Sherman Way, Van Nuys, CA 91405, USA",34.2012039,-118.4528139,Los Angeles County,,10/31/2018,04/30/2020,Comp Shingle
+69841,17826,Chatsworth St,Los Angeles,CA,91344,"17826 Chatsworth St, Granada Hills, CA 91344, USA",34.26464,-118.5226377,Los Angeles County,,11/07/2018,12/31/2018,Built Up
+69842,5137,York Blvd,Los Angeles,CA,90042,"5137 York Blvd, Los Angeles, CA 90042, USA",34.1210228,-118.2033864,Los Angeles County,,11/13/2018,11/30/2018,Built Up
+69843,7115,Shoup Ave,Los Angeles,CA,91307,"7115 Shoup Ave, West Hills, CA 91307, USA",34.1996218,-118.6150835,Los Angeles County,,11/16/2018,05/31/2019,Comp Shingle
+69844,5930,Monterey Rd,Los Angeles,CA,90042,"5930 Monterey Rd, Los Angeles, CA 90042, USA",34.1051844,-118.1839875,Los Angeles County,,11/19/2018,06/30/2019,Built Up
+69835,11840,Foothill Blvd,Los Angeles,CA,91342,"11840 Foothill Blvd, Sylmar, CA 91342, USA",34.273597,-118.39507,Los Angeles County,,03/12/2019,03/31/2021,Built Up
+69845,1327,W Anaheim St,Los Angeles,CA,90744,"1327 W Anaheim St, Wilmington, CA 90744, USA",33.7792951,-118.2792947,Los Angeles County,,11/26/2018,04/30/2019,Built Up
+69846,3513,Whittier Blvd,Los Angeles,CA,90023,"3513 Whittier Blvd, Los Angeles, CA 90023, USA",34.0266793,-118.1977445,Los Angeles County,,11/29/2018,06/30/2020,Class A or B
+69847,5439,Cahuenga Blvd,Los Angeles,CA,91601,"5439 Cahuenga Blvd, North Hollywood, CA 91601, USA",34.1698683,-118.3619231,Los Angeles County,,12/05/2018,12/31/2018,Built Up
+69848,10201,W Pico Blvd,Los Angeles,CA,90067,"10201 W Pico Blvd, Los Angeles, CA 90067, USA",34.0519513,-118.4125771,Los Angeles County,,12/13/2018,12/31/2017,Comp Shingle
+69849,1016,W Manchester Ave,Los Angeles,CA,90044,"1016 W Manchester Ave, Los Angeles, CA 90044, USA",33.9597756,-118.29263,Los Angeles County,,12/18/2018,10/31/2019,Built Up
+69850,20340,Harvard Blvd,Torrance,CA,90501,"20340 Harvard Blvd, Torrance, CA 90501, USA",33.8462108,-118.3064224,Los Angeles County,,12/18/2018,02/28/2019,Class A or B
+69851,2017,E 7th St,Los Angeles,CA,90021,"2017 E 7th St, Los Angeles, CA 90021, USA",34.0347866,-118.2316241,Los Angeles County,,12/19/2018,07/31/2017,Built Up
+69852,5335,McConnell Ave,Los Angeles,CA,90066,"5335 McConnell Ave, Los Angeles, CA 90066, USA",33.9789534,-118.4209264,Los Angeles County,,12/21/2018,10/31/2019,Class A or B
+69853,12811,Coral Tree Pl,Los Angeles,CA,90066,"12811 Coral Tree Pl, Los Angeles, CA 90066, USA",33.978748,-118.4210125,Los Angeles County,,12/21/2018,10/31/2019,Class A or B
+69854,21730,Sherman Way,Los Angeles,CA,91303,"21730 Sherman Way, Canoga Park, CA 91303, USA",34.2007593,-118.6026552,Los Angeles County,,12/27/2018,11/30/2018,Built Up
+69856,12743,Ventura Blvd,Los Angeles,CA,91604,"12743 Ventura Blvd, Studio City, CA 91604, USA",34.1452575,-118.4107794,Los Angeles County,,01/07/2019,08/31/2020,Comp Shingle
+69857,10588,W Pico Blvd,Los Angeles,CA,90064,"10588 W Pico Blvd, Los Angeles, CA 90064, USA",34.0433831,-118.4216385,Los Angeles County,,01/08/2019,05/31/2020,Comp Shingle
+69858,3021,Rowena Ave,Los Angeles,CA,90039,"3021 Rowena Ave, Los Angeles, CA 90039, USA",34.1091,-118.2701693,Los Angeles County,,01/08/2019,01/31/2020,Built Up
+69859,15416,W Lassen St,Los Angeles,CA,91345,"15416 W Lassen St, Mission Hills, CA 91345, USA",34.2499507,-118.4524024,Los Angeles County,,01/08/2019,07/31/2020,Built Up
+69860,2001,E 7th St,Los Angeles,CA,90021,"2001 E 7th St, Los Angeles, CA 90021, USA",34.0347558,-118.2321495,Los Angeles County,,01/09/2019,11/30/2017,Built Up
+69861,7677,Sunset Blvd,Los Angeles,CA,90046,"7677 Sunset Blvd, Los Angeles, CA 90046, USA",34.0983501,-118.3568327,Los Angeles County,,01/11/2019,06/30/2017,Built Up
+69862,22801,Roscoe Blvd,Los Angeles,CA,91304,"22801 Roscoe Blvd, Canoga Park, CA 91304, USA",34.2206394,-118.6253881,Los Angeles County,,01/15/2019,05/31/2019,Class A or B
+69863,401,S Hope St,Los Angeles,CA,90071,"401 S Hope St, Los Angeles, CA 90071, USA",34.0520049,-118.2546228,Los Angeles County,,01/15/2019,03/31/2020,Class A or B
+69865,915,S Alvarado St,Los Angeles,CA,90006,"915 S Alvarado St, Los Angeles, CA 90006, USA",34.0532206,-118.2793526,Los Angeles County,,01/17/2019,03/31/2018,Built Up
+69866,2029,Sawtelle Blvd,Los Angeles,CA,90025,"2029 Sawtelle Blvd, Los Angeles, CA 90025, USA",34.0400856,-118.4431664,Los Angeles County,,01/18/2019,08/31/2020,Comp Shingle
+69867,17930,Ventura Blvd,Los Angeles,CA,91316,"17930 Ventura Blvd, Encino, CA 91316, USA",34.1637611,-118.5232163,Los Angeles County,,01/22/2019,01/31/2020,Built Up
+69868,9901,N Sepulveda Blvd,Los Angeles,CA,91345,"9901 N Sepulveda Blvd, Mission Hills, CA 91345, USA",34.2749758,-118.468043,Los Angeles County,,01/25/2019,05/31/2020,Built Up
+69869,340,S Mesa St,Los Angeles,CA,90731,"340 S Mesa St, San Pedro, CA 90731, USA",33.7407039,-118.2854137,Los Angeles County,,01/29/2019,09/30/2020,Class A or B
+69870,11376,Exposition Blvd,Los Angeles,CA,90064,"11376 Exposition Blvd, Los Angeles, CA 90064, USA",34.0339022,-118.4399265,Los Angeles County,,01/31/2019,02/28/2019,Class A or B
+69871,2046,Hillhurst Ave,Los Angeles,CA,90027,"2046 Hillhurst Ave, Los Angeles, CA 90027, USA",34.1089625,-118.2871721,Los Angeles County,,02/02/2019,06/30/2019,Built Up
+69872,12756,Van Nuys Blvd,Los Angeles,CA,91331,"12756 Van Nuys Blvd, Pacoima, CA 91331, USA",34.2739361,-118.4107879,Los Angeles County,,02/07/2019,10/31/2020,Built Up
+69873,1509,Pontius Ave,Los Angeles,CA,90025,"1509 Pontius Ave, Los Angeles, CA 90025, USA",34.049565,-118.44715,Los Angeles County,,02/16/2019,06/30/2019,Built Up
+69874,6100,Canoga Ave,Los Angeles,CA,91367,"6100 Canoga Ave, Woodland Hills, CA 91367, USA",34.181332,-118.5956853,Los Angeles County,,03/07/2019,09/30/2020,Class A or B
+69875,10824,Burbank Blvd,Los Angeles,CA,91601,"10824 Burbank Blvd, North Hollywood, CA 91601, USA",34.1717273,-118.3666938,Los Angeles County,,03/11/2019,11/30/2019,Built Up
+69876,143,N Robertson Blvd,Los Angeles,CA,90048,"143 N Robertson Blvd, Los Angeles, CA 90048, USA",34.0763431,-118.3840547,Los Angeles County,,03/12/2019,06/30/2019,Built Up
+69877,7257,Melrose Ave,Los Angeles,CA,90046,"7257 Melrose Ave, Los Angeles, CA 90046, USA",34.0836542,-118.3477814,Los Angeles County,,03/13/2019,03/31/2020,Comp Shingle
+69878,3413,N Cahuenga Blvd,Los Angeles,CA,90068,"3413 N Cahuenga Blvd, Los Angeles, CA 90068, USA",34.1114701,-118.3346143,Los Angeles County,,03/13/2019,10/31/2020,Comp Shingle
+69879,616,N La Brea Ave,Los Angeles,CA,90036,"616 N La Brea Ave, Los Angeles, CA 90036, USA",34.08245,-118.3436997,Los Angeles County,,03/14/2019,07/31/2020,Built Up
+69880,4901,S Hoover St,Los Angeles,CA,90037,"4901 S Hoover St, Los Angeles, CA 90037, USA",33.998601,-118.287356,Los Angeles County,,03/20/2019,07/31/2019,Built Up
+69881,12155,Riverside Dr,Los Angeles,CA,91607,"12155 Riverside Dr, Valley Village, CA 91607, USA",34.1579419,-118.3983734,Los Angeles County,,03/25/2019,10/31/2019,Built Up
+69882,463,South La Brea Ave,Los Angeles,CA,90036,"463 South La Brea Ave, Los Angeles, CA 90036, USA",34.065057,-118.344354,Los Angeles County,,03/28/2019,03/31/2019,Class A or B
+69883,9215,Clovis Ave,Los Angeles,CA,90002,"9215 Clovis Ave, Los Angeles, CA 90002, USA",33.9524325,-118.2567509,Los Angeles County,,03/28/2019,03/31/2020,Class A or B
+69884,10325,N Glenoaks Blvd,Los Angeles,CA,91331,"10325 N Glenoaks Blvd, Pacoima, CA 91331, USA",34.2771559,-118.4156724,Los Angeles County,,03/28/2019,08/31/2019,Comp Shingle
+69885,457,South La Brea Ave,Los Angeles,CA,90036,"457 South La Brea Ave, Los Angeles, CA 90036, USA",34.0652452,-118.3441848,Los Angeles County,,03/28/2019,03/31/2019,Class A or B
+69886,2257,S Barry Ave,Los Angeles,CA,90064,"2257 S Barry Ave, Los Angeles, CA 90064, USA",34.0296812,-118.442861,Los Angeles County,,03/28/2019,03/31/2019,Class A or B
+69887,15218,Parthenia St,Los Angeles,CA,91343,"15218 Parthenia St, North Hills, CA 91343, USA",34.2279625,-118.4639729,Los Angeles County,,03/28/2019,07/31/2020,Built Up
+69888,8217,Beverly Blvd,Los Angeles,CA,90048,"8217 Beverly Blvd, Los Angeles, CA 90048, USA",34.0763876,-118.3686336,Los Angeles County,,03/29/2019,03/31/2019,Class A or B
+69890,20924,Sherman Way,Los Angeles,CA,91303,"20924 Sherman Way, Canoga Park, CA 91303, USA",34.2007161,-118.5893724,Los Angeles County,,04/02/2019,12/31/2019,Built Up
+69891,12409,Ventura Ct,Los Angeles,CA,91604,"12409 Ventura Ct, Studio City, CA 91604, USA",34.1434054,-118.4033668,Los Angeles County,,04/02/2019,12/31/2020,Built Up
+69892,12861,Vanowen St,Los Angeles,CA,91605,"12861 Vanowen St, North Hollywood, CA 91605, USA",34.1943733,-118.4135035,Los Angeles County,,04/03/2019,02/29/2020,Built Up
+69893,8110,Airport Blvd,Los Angeles,CA,90045,"8110 Airport Blvd, Los Angeles, CA 90045, USA",33.965297,-118.384851,Los Angeles County,,04/03/2019,09/30/2020,Built Up
+69889,600,N Grand Ave,Los Angeles,CA,90012,"600 N Grand Ave, Los Angeles, CA 90012, USA",34.0605112,-118.2432182,Los Angeles County,,04/03/2019,05/31/2020,Built Up
+69894,7101,Menlo Ave,Los Angeles,CA,90044,"7101 Menlo Ave, Los Angeles, CA 90044, USA",33.975273,-118.289414,Los Angeles County,,04/04/2019,08/31/2020,Comp Shingle
+69897,3151,Los Feliz Blvd,Los Angeles,CA,90039,"3151 Los Feliz Blvd, Los Angeles, CA 90039, USA",34.1241436,-118.2677826,Los Angeles County,,04/10/2019,09/30/2019,Comp Shingle
+69895,14657,Lull St,Los Angeles,CA,91405,"14657 Lull St, Van Nuys, CA 91405, USA",34.2096149,-118.4529864,Los Angeles County,,04/10/2019,12/31/2019,Built Up
+69898,4309,Leimert Blvd,Los Angeles,CA,90008,"4309 Leimert Blvd, Los Angeles, CA 90008, USA",34.0053132,-118.330315,Los Angeles County,,04/12/2019,04/30/2020,Built Up
+69899,14655,Lull St,Los Angeles,CA,91405,"14655 Lull St, Van Nuys, CA 91405, USA",34.2096986,-118.4526844,Los Angeles County,,04/12/2019,12/31/2019,Built Up
+69900,12980,Sherman Way,Los Angeles,CA,91605,"12980 Sherman Way, North Hollywood, CA 91605, USA",34.2008063,-118.4156257,Los Angeles County,,04/17/2019,10/31/2019,Built Up
+69901,716,N La Brea Ave,Los Angeles,CA,90038,"716 N La Brea Ave, Los Angeles, CA 90038, USA",34.084026,-118.3438014,Los Angeles County,,04/18/2019,03/31/2021,Class A or B
+69903,102,E Washington Blvd,Los Angeles,CA,90021,"102 E Washington Blvd, Los Angeles, CA 90021, USA",34.0198911,-118.2398823,Los Angeles County,,04/23/2019,03/31/2020,Class A or B
+69904,1325,Stonewood Ct,Los Angeles,CA,90732,"1325 Stonewood Ct, San Pedro, CA 90732, USA",33.7615237,-118.3057009,Los Angeles County,,04/23/2019,09/30/2020,Class A or B
+69905,11041,N Balboa Blvd,Los Angeles,CA,91344,"11041 N Balboa Blvd, Granada Hills, CA 91344, USA",34.257525,-118.5023527,Los Angeles County,,04/24/2019,12/31/2019,Built Up
+69906,12403,Ventura Ct,Los Angeles,CA,91604,"12403 Ventura Ct, Studio City, CA 91604, USA",34.1434329,-118.4030929,Los Angeles County,,04/25/2019,12/31/2020,Built Up
+69907,15317,Vanowen St,Los Angeles,CA,91405,"15317 Vanowen St, Van Nuys, CA 91405, USA",34.194221,-118.4669109,Los Angeles County,,04/25/2019,10/31/2019,Built Up
+69908,4900,E Valley Blvd,Los Angeles,CA,90032,"4900 E Valley Blvd, Los Angeles, CA 90032, USA",34.0670144,-118.1774217,Los Angeles County,,05/02/2019,02/29/2020,Class A or B
+69909,7748,Pso Del Rey,Los Angeles,CA,90293,"7748 Pso Del Rey, Playa Del Rey, CA 90293, USA",33.9558362,-118.4338699,Los Angeles County,,05/03/2019,10/31/2019,Class A or B
+69910,18752,W Ventura Blvd,Los Angeles,CA,91356,"18752 W Ventura Blvd, Tarzana, CA 91356, USA",34.165692,-118.5286845,Los Angeles County,,05/06/2019,06/30/2019,Built Up
+69911,10275,N Tujunga Canyon Blvd,Los Angeles,CA,91042,"10275 N Tujunga Canyon Blvd, Tujunga, CA 91042, USA",34.2434699,-118.2744799,Los Angeles County,,05/07/2019,10/31/2019,Comp Shingle
+69912,8939,W Pico Blvd,Los Angeles,CA,90035,"8939 W Pico Blvd, Los Angeles, CA 90035, USA",34.0555008,-118.3870046,Los Angeles County,,05/15/2019,03/31/2021,Built Up
+69913,5408,W Adams Blvd,Los Angeles,CA,90016,"5408 W Adams Blvd, Los Angeles, CA 90016, USA",34.0322898,-118.3608755,Los Angeles County,,05/17/2019,06/30/2020,Built Up
+69914,4406,W Pico Blvd,Los Angeles,CA,90019,"4406 W Pico Blvd, Los Angeles, CA 90019, USA",34.047892,-118.330751,Los Angeles County,,05/22/2019,02/29/2020,Built Up
+69915,8069,Beverly Blvd,Los Angeles,CA,90048,"8069 Beverly Blvd, Los Angeles, CA 90048, USA",34.0763101,-118.3655776,Los Angeles County,,05/28/2019,09/30/2019,Built Up
+69916,19700,Rinaldi St,Los Angeles,CA,91326,"19700 Rinaldi St, Northridge, CA 91326, USA",34.274072,-118.5633472,Los Angeles County,,05/31/2019,01/31/2021,Built Up
+69917,12203,Ventura Blvd,Los Angeles,CA,91604,"12203 Ventura Blvd, Studio City, CA 91604, USA",34.1435118,-118.3985543,Los Angeles County,,05/31/2019,08/31/2020,Built Up
+69918,3827,Sunset Blvd,Los Angeles,CA,90026,"3827 Sunset Blvd, Los Angeles, CA 90026, USA",34.0916782,-118.2793113,Los Angeles County,,06/06/2019,01/31/2021,Built Up
+69919,14058,Victory Blvd,Los Angeles,CA,91401,"14058 Victory Blvd, Van Nuys, CA 91401, USA",34.1863573,-118.4397058,Los Angeles County,,06/07/2019,06/30/2019,Built Up
+69921,403,W Adams Blvd,Los Angeles,CA,90007,"403 W Adams Blvd, Los Angeles, CA 90007, USA",34.0276982,-118.2735459,Los Angeles County,,06/12/2019,08/31/2020,Built Up
+69922,10500,S Avalon Blvd,Los Angeles,CA,90003,"10500 S Avalon Blvd, Los Angeles, CA 90003, USA",33.9409006,-118.2649277,Los Angeles County,,06/13/2019,04/30/2021,Comp Shingle
+69923,7133,Vineland Ave,Los Angeles,CA,91605,"7133 Vineland Ave, North Hollywood, CA 91605, USA",34.2005362,-118.371259,Los Angeles County,,06/17/2019,04/30/2020,Built Up
+69924,2600,N Main St,Los Angeles,CA,90031,"2600 N Main St, Los Angeles, CA 90031, USA",34.0656365,-118.2150876,Los Angeles County,,06/18/2019,04/30/2020,Built Up
+69926,10834,Santa Monica Blvd,Los Angeles,CA,90025,"10834 Santa Monica Blvd, Los Angeles, CA 90025, USA",34.0496081,-118.4355002,Los Angeles County,,06/21/2019,06/30/2020,Built Up
+69927,17907,S Figueroa St,Gardena,CA,90248,"17907 S Figueroa St, Gardena, CA 90248, USA",33.8682548,-118.2823078,Los Angeles County,,06/24/2019,04/30/2020,Built Up
+69928,5036,W Pico Blvd,Los Angeles,CA,90019,"5036 W Pico Blvd, Los Angeles, CA 90019, USA",34.0475967,-118.3474276,Los Angeles County,,06/25/2019,07/31/2020,Built Up
+69929,6727,Odessa Ave,Los Angeles,CA,91406,"6727 Odessa Ave, Van Nuys, CA 91406, USA",34.1926673,-118.4904932,Los Angeles County,,06/26/2019,09/30/2019,Built Up
+69930,2311,Cotner Ave,Los Angeles,CA,90064,"2311 Cotner Ave, Los Angeles, CA 90064, USA",34.0374824,-118.4381697,Los Angeles County,,06/26/2019,06/30/2020,Built Up
+69931,5633,W Adams Blvd,Los Angeles,CA,90016,"5633 W Adams Blvd, Los Angeles, CA 90016, USA",34.032678,-118.3660319,Los Angeles County,,07/01/2019,06/30/2021,Built Up
+69932,788,W 9th St,Los Angeles,CA,90731,"788 W 9th St, San Pedro, CA 90731, USA",33.736318,-118.294229,Los Angeles County,,07/01/2019,09/30/2020,Built Up
+69933,1235,S Corning St,Los Angeles,CA,90035,"1235 S Corning St, Los Angeles, CA 90035, USA",34.0546056,-118.3776504,Los Angeles County,,07/05/2019,10/31/2019,Class A or B
+69934,9545,Reseda Blvd,Los Angeles,CA,91324,"9545 Reseda Blvd, Northridge, CA 91324, USA",34.2435768,-118.53726,Los Angeles County,,07/05/2019,04/30/2021,Comp Shingle
+69935,844,W Colorado Blvd,Pasadena,CA,91105,"844 W Colorado Blvd, Pasadena, CA 91105, USA",34.1421977,-118.1727496,Los Angeles County,,07/05/2019,06/30/2020,Built Up
+69936,6800,De Soto Ave,Los Angeles,CA,91303,"6800 De Soto Ave, Canoga Park, CA 91303, USA",34.1941779,-118.587972,Los Angeles County,,07/09/2019,04/30/2021,Built Up
+69938,969,N Broadway,Los Angeles,CA,90012,"969 N Broadway, Los Angeles, CA 90012, USA",34.065967,-118.236659,Los Angeles County,,07/10/2019,08/31/2020,Built Up
+69939,2925,W Vernon Ave,Los Angeles,CA,90008,"2925 W Vernon Ave, Los Angeles, CA 90008, USA",34.0038143,-118.3254373,Los Angeles County,,07/11/2019,05/31/2020,Comp Shingle
+69940,2116,South La Brea Ave,Los Angeles,CA,90016,"2116 South La Brea Ave, Los Angeles, CA 90016, USA",34.0377866,-118.3482756,Los Angeles County,,07/12/2019,07/31/2021,Built Up
+69941,7229,Winnetka Ave,Los Angeles,CA,91306,"7229 Winnetka Ave, Winnetka, CA 91306, USA",34.2021893,-118.5713048,Los Angeles County,,07/13/2019,03/31/2020,Built Up
+69942,21738,W Marilla St,Los Angeles,CA,91311,"21738 W Marilla St, Chatsworth, CA 91311, USA",34.247753,-118.6064455,Los Angeles County,,07/17/2019,03/31/2020,Class A or B
+69943,11331,Camarillo St,Los Angeles,CA,91602,"11331 Camarillo St, North Hollywood, CA 91602, USA",34.1579517,-118.3782891,Los Angeles County,,07/18/2019,11/30/2019,Built Up
+69948,7415,Beverly Blvd,Los Angeles,CA,90036,"7415 Beverly Blvd, Los Angeles, CA 90036, USA",34.0764543,-118.3517442,Los Angeles County,,07/29/2019,03/31/2021,Class A or B
+69944,2033,S Crescent Ave,Los Angeles,CA,90731,"2033 S Crescent Ave, San Pedro, CA 90731, USA",33.7253134,-118.2852768,Los Angeles County,,07/18/2019,07/31/2020,Reroof with Class A of B material weighing less than 6 pounds per sq.f
+69945,9201,Gazette Ave,Los Angeles,CA,91311,"9201 Gazette Ave, Chatsworth, CA 91311, USA",34.2382154,-118.587617,Los Angeles County,,07/24/2019,12/31/2020,Built Up
+69946,990,N Hill St,Los Angeles,CA,90012,"990 N Hill St, Los Angeles, CA 90012, USA",34.0669685,-118.2371752,Los Angeles County,,07/25/2019,01/31/2021,Built Up
+69949,4445,N Noble Ave,Los Angeles,CA,91403,"4445 N Noble Ave, Sherman Oaks, CA 91403, USA",34.1608713,-118.4618087,Los Angeles County,,07/30/2019,04/30/2020,Comp Shingle
+69950,501,N Fairfax Ave,Los Angeles,CA,90036,"501 N Fairfax Ave, Los Angeles, CA 90036, USA",34.0802474,-118.3616819,Los Angeles County,,07/30/2019,12/31/2019,Built Up
+69951,1404,S La Cienega Blvd,Los Angeles,CA,90035,"1404 S La Cienega Blvd, Los Angeles, CA 90035, USA",34.0530233,-118.375879,Los Angeles County,,07/30/2019,12/31/2019,Built Up
+69952,3821,W Jefferson Blvd,Los Angeles,CA,90016,"3821 W Jefferson Blvd, Los Angeles, CA 90016, USA",34.0258874,-118.3379306,Los Angeles County,,08/01/2019,04/30/2021,Built Up
+69953,919,Albany St,Los Angeles,CA,90015,"919 Albany St, Los Angeles, CA 90015, USA",34.0487228,-118.2710258,Los Angeles County,,08/02/2019,03/31/2020,Class A or B
+69947,23838,Kittridge St,Los Angeles,CA,91307,"23838 Kittridge St, Canoga Park, CA 91307, USA",34.1902003,-118.6463964,Los Angeles County,,08/02/2019,10/31/2019,Built Up
+69330,12201,Venice Blvd,Los Angeles,CA,90066,"12201 Venice Blvd, Los Angeles, CA 90066, USA",34.0051814,-118.4316669,Los Angeles County,,05/10/2013,04/30/2015,Built Up
+69336,16935,Vanowen St,Los Angeles,CA,91406,"16935 Vanowen St, Lake Balboa, CA 91406, USA",34.1943543,-118.5026911,Los Angeles County,,05/31/2013,02/28/2014,Built Up
+69343,17231,W Sherman Way,Los Angeles,CA,91405,"17231 W Sherman Way, Van Nuys, CA 91405, USA",34.2011999,-118.4531985,Los Angeles County,,07/09/2013,06/30/2014,"Tear off existing roofing material, apply 28lbs base sheet and reroof"
+69319,2301,Bellevue Ave,Los Angeles,CA,90026,"2301 Bellevue Ave, Los Angeles, CA 90026, USA",34.0751499,-118.2701579,Los Angeles County,,09/11/2018,04/30/2019,Built Up
+69456,1100,W Manchester Ave,Los Angeles,CA,90044,"1100 W Manchester Ave, Los Angeles, CA 90044, USA",33.9596286,-118.2941828,Los Angeles County,,04/14/2015,10/31/2015,Built Up
+69470,2317,Canyonback Rd,Los Angeles,CA,90049,"2317 Canyonback Rd, Los Angeles, CA 90049, USA",34.109735,-118.495308,Los Angeles County,,06/30/2015,05/31/2015,Built Up
+69478,8351,Sunland Blvd,Los Angeles,CA,91352,"8351 Sunland Blvd, Sun Valley, CA 91352, USA",34.2229392,-118.3663971,Los Angeles County,,07/16/2015,09/30/2015,Class A or B
+69484,10640,N Sepulveda Blvd,Los Angeles,CA,91345,"10640 N Sepulveda Blvd, Mission Hills, CA 91345, USA",34.2749758,-118.468043,Los Angeles County,,08/11/2015,07/31/2016,Built Up
+69459,9131,N Independence Ave,Los Angeles,CA,91311,"9131 N Independence Ave, Chatsworth, CA 91311, USA",34.2692768,-118.5907548,Los Angeles County,,10/22/2015,05/31/2017,Built Up
+69577,1936,Pontius Ave,Los Angeles,CA,90025,"1936 Pontius Ave, Los Angeles, CA 90025, USA",34.0433983,-118.441138,Los Angeles County,,06/21/2016,11/30/2016,Built Up
+69954,1540,Calzona St,Los Angeles,CA,90023,"1540 Calzona St, Los Angeles, CA 90023, USA",34.0152053,-118.1963599,Los Angeles County,,03/10/2017,08/31/2018,Built Up
+69669,14344,W Sherman Way,Los Angeles,CA,91405,"14344 W Sherman Way, Van Nuys, CA 91405, USA",34.2011946,-118.4508266,Los Angeles County,,05/15/2017,01/31/2019,Comp Shingle
+69684,16625,Arminta St,Los Angeles,CA,91406,"16625 Arminta St, Van Nuys, CA 91406, USA",34.2151112,-118.4953831,Los Angeles County,,06/14/2017,06/30/2017,Built Up
+69692,5750,Mesmer Ave,Culver City,CA,90230,"5750 Mesmer Ave, Culver City, CA 90230, USA",33.9841108,-118.3978713,Los Angeles County,,07/05/2017,10/31/2018,Comp Shingle
+69691,20211,Prairie St,Los Angeles,CA,91311,"20211 Prairie St, Chatsworth, CA 91311, USA",34.2397054,-118.5731869,Los Angeles County,,01/30/2018,07/31/2017,Built Up
+69768,9635,Laurel Canyon Blvd,Los Angeles,CA,91331,"9635 Laurel Canyon Blvd, Arleta, CA 91331, USA",34.2438571,-118.4175881,Los Angeles County,,03/05/2018,06/30/2018,Built Up
+69855,5930,W Pico Blvd,Los Angeles,CA,90035,"5930 W Pico Blvd, Los Angeles, CA 90035, USA",34.0516179,-118.3690677,Los Angeles County,,01/04/2019,02/28/2019,Built Up
+69864,734,N Highland Ave,Los Angeles,CA,90038,"734 N Highland Ave, Los Angeles, CA 90038, USA",34.0845645,-118.3383803,Los Angeles County,,01/17/2019,03/31/2018,Built Up
+69896,9924,Commerce Ave,Los Angeles,CA,91042,"9924 Commerce Ave, Tujunga, CA 91042, USA",34.2493593,-118.2884807,Los Angeles County,,04/24/2019,09/30/2019,Built Up
+69902,1529,S Robertson Blvd,Los Angeles,CA,90035,"1529 S Robertson Blvd, Los Angeles, CA 90035, USA",34.0512965,-118.3844208,Los Angeles County,,04/18/2019,03/31/2021,Class A or B
+69920,12426,Ventura Blvd,Los Angeles,CA,91604,"12426 Ventura Blvd, Studio City, CA 91604, USA",34.1425772,-118.4039602,Los Angeles County,,06/11/2019,05/31/2020,Comp Shingle
+69925,16946,W Sherman Way,Los Angeles,CA,91335,"16946 W Sherman Way, Reseda, CA 91335, USA",34.2010778,-118.5199707,Los Angeles County,,06/21/2019,07/31/2020,Class A or B
+69937,10962,Le Conte Ave,Los Angeles,CA,90024,"10962 Le Conte Ave, Los Angeles, CA 90024, USA",34.0634223,-118.4475013,Los Angeles County,,07/09/2019,01/31/2020,Built Up
