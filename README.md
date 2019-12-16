@@ -13,11 +13,3 @@ The subdirectory for each property contains 7 images from the years 2012-2018. E
 
 We also include a .csv of all the reroof data for commercial properties in Los Angeles at `la_commercial_reroofs.csv`.
 
-## Using the data
-
-If you use this data in your research please cite:
-
-```
-Mr. Meow's Big Band
-100 S. Main Street
-```
